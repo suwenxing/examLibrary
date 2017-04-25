@@ -21,6 +21,6 @@ define('BIND_MODULE','Admin');
 define('APP_PATH','./Application/');
 
 // 引入ThinkPHP入口文件
-require './ThinkPHP/ThinkPHP.php';
+require './ThinkPHP/ThinkPHP.php'; 
 
 // 亲^_^ 后面不需要任何代码了 就是如此简单

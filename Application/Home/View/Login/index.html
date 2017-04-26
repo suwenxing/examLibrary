@@ -40,14 +40,14 @@
 		<div class="tpl-login">
 			<div class="tpl-login-content">
 				<div class="tpl-login-logo"></div>
-				<form class="am-form tpl-form-line-form">
+				<form class="am-form tpl-form-line-form" action="__CONTROLLER__/login">
 					<div class="am-form-group">
-						<input type="text" class="tpl-form-input" id="user-name"
+						<input type="text" class="tpl-form-input" id="user-name" minlength="2"  pattern="^\d{10}$" required 
 							placeholder="童鞋，你的学号是多少O(∩_∩)O">
 					</div>
 
 					<div class="am-form-group">
-						<input type="password" class="tpl-form-input" id="user-name"
+						<input type="text" class="tpl-form-input" id="user-name" minlength="2"  required
 							placeholder="童鞋，久仰您的的大名(*^__^*)">
 
 					</div>
@@ -59,7 +59,7 @@
 					</div>
 					-->
 					<div class="am-form-group am-margin-top-lg">
-						<button type="button"
+						<button type="submit"
 							class="am-btn am-btn-primary  am-btn-block tpl-btn-bg-color-success  tpl-login-btn">提交</button>
 					</div>
 				</form>

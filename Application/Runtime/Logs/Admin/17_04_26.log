@@ -25,3 +25,2756 @@ ERR: 无法加载控制器:Assets
 [ 2017-04-26T10:35:27+08:00 ] ::1 /examLibrary/admin.php/assets/js/app.js
 ERR: 无法加载控制器:Assets
 
+[ 2017-04-26T13:33:31+08:00 ] ::1 /examLibrary/admin.php/Index/tables.html
+ERR: 非法操作:tables
+
+[ 2017-04-26T13:41:17+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:41:17+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:41:17+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:41:17+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:41:17+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:41:17+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:41:17+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:41:17+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:43:54+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:43:54+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:43:54+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:43:54+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:43:54+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:43:54+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:43:54+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:43:54+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:44:44+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:44:44+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:44:44+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:44:44+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:44:44+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:44:44+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:44:44+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:44:44+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:45:39+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:45:39+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:45:39+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:45:39+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:45:39+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:45:39+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:45:39+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:45:40+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:45:59+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:45:59+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:45:59+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:45:59+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:45:59+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:45:59+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:46:00+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:46:00+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:46:22+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:46:22+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:46:22+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:46:22+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:46:22+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:46:22+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:46:22+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:46:22+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:46:30+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:46:30+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:46:30+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:46:30+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:46:30+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:46:30+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:46:30+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:46:30+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:47:30+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:47:30+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:47:30+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:47:30+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:47:30+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:47:31+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:47:31+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:47:31+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:47:31+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:47:31+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:47:31+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:47:31+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:47:32+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:47:32+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:47:32+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:47:32+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:47:55+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:47:55+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:47:55+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:47:55+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:47:56+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:47:56+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:47:56+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:47:56+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:48:12+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:48:12+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:48:12+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:48:12+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:48:13+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:48:13+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:48:13+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:48:13+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:48:14+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:48:14+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:48:14+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:48:14+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:48:14+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:48:14+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:48:14+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:48:14+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:49:01+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:49:02+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:49:02+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:49:02+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:49:02+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:49:02+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:49:02+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:49:02+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:51:25+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:51:25+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:51:25+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:51:25+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:51:25+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:51:25+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:51:25+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:51:25+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:51:40+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:51:40+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:51:40+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:51:40+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:51:40+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:51:40+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:51:40+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:51:40+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:51:41+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:51:41+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:51:41+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:51:41+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:51:42+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:51:42+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:51:42+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:51:42+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:51:56+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:51:56+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:51:56+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:51:56+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:51:56+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:51:56+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:51:56+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:51:56+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:51:57+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:51:57+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:51:57+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:51:57+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:51:58+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:51:58+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:51:58+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:51:58+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:52:58+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:52:58+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:52:58+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:52:58+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:52:58+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:52:58+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:52:58+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:52:58+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:52:59+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:52:59+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:52:59+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:52:59+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:53:00+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:53:00+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:53:00+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:53:00+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:54:11+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:54:11+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:54:11+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:54:11+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:54:11+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:54:11+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:54:16+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:55:20+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:55:20+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:55:20+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:55:20+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:55:20+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:55:20+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:55:20+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T13:55:20+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:00:13+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:00:13+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:00:13+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:00:13+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:00:13+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:00:13+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:00:13+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:00:13+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:01:10+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:01:10+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:01:10+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:01:10+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:01:11+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:01:11+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:01:11+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:01:11+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:01:42+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:01:42+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:01:42+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:01:42+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:01:43+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:01:43+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:01:43+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:01:43+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:03:22+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:03:22+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:03:22+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:03:22+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:03:22+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:03:23+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:03:23+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:03:23+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:04:41+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:04:41+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:04:41+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:04:41+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:04:41+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:04:41+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:04:42+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:04:42+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:04:56+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:04:56+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:04:56+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:04:56+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:04:57+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:04:57+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:04:57+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:04:57+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:08:38+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:08:38+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:08:38+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:08:38+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:08:38+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:08:38+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:08:38+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:08:38+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:09:45+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:09:45+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:09:45+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:09:45+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:09:45+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:09:45+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:09:45+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:09:45+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:11:58+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:11:58+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:11:58+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:11:58+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:11:58+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:11:58+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:11:58+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:11:58+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:16:35+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:16:35+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:16:35+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:16:35+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:16:35+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:16:35+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:16:35+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:16:35+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:17:26+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:17:26+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:17:26+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:17:26+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:17:26+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:17:26+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:17:26+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:17:27+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:18:23+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:18:23+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:18:23+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:18:23+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:18:23+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:18:23+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:18:23+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:18:23+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:18:45+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:18:45+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:18:45+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:18:45+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:18:45+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:18:45+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:18:45+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:18:45+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:19:00+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:19:00+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:19:00+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:19:00+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:19:00+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:19:00+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:19:00+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:19:00+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:19:16+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:19:16+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:19:16+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:19:16+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:19:16+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:19:16+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:19:16+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:19:16+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:21:53+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:21:53+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:21:53+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:21:53+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:21:53+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:21:53+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:21:53+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:21:53+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:22:06+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:22:06+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:22:06+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:22:06+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:22:06+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:22:06+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:22:06+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:22:06+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:23:26+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:23:26+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:23:26+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:23:26+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:23:27+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:23:27+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:23:27+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:23:27+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:23:59+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:23:59+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:23:59+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:23:59+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:24:00+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:24:00+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:24:00+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:24:00+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:24:42+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:24:42+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:24:42+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:24:42+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:24:42+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:24:42+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:24:42+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:24:42+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:25:11+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:25:11+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:25:11+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:25:11+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:25:12+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:25:12+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:25:12+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:25:12+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:25:27+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:25:27+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:25:27+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:25:27+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:25:27+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:25:27+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:25:27+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:25:27+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:33:23+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:33:23+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:33:23+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:33:23+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:33:23+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:33:23+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:33:23+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:33:23+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:34:51+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:34:51+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:34:51+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:34:51+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:34:51+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:34:51+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:34:51+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:34:51+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:35:23+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:35:23+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:35:23+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:35:23+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:35:23+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:35:23+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:35:23+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:35:23+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:39:23+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:39:23+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:39:23+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:39:23+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:39:24+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:39:24+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:39:24+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:39:24+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:39:28+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002322s ]
+NOTIC: [8] Undefined index: exl D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001271s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001404s ]
+
+[ 2017-04-26T14:42:41+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:42:41+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:42:41+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:42:41+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:42:41+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:42:41+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:42:41+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:42:41+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:42:44+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:42:44+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:42:44+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:42:44+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:42:44+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:42:44+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:42:44+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:42:44+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:43:07+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:43:07+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:43:07+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:43:07+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:43:07+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:43:07+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:43:07+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:43:07+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:44:09+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:44:09+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:44:09+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:44:09+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:44:09+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:44:09+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:44:09+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:44:09+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:44:34+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:44:34+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:44:34+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:44:34+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:44:35+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:44:35+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:44:35+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:44:35+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:45:44+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:45:44+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:45:44+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:45:44+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:45:44+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:45:44+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:45:44+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:45:44+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:51:18+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:51:18+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:51:18+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:51:18+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:51:18+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:51:18+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:51:18+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:51:18+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:51:22+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000677s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001583s ]
+NOTIC: [8] Undefined index: exl D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000472s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000528s ]
+
+[ 2017-04-26T14:52:38+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:52:38+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:52:38+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:52:38+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:52:38+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:52:38+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:52:38+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:52:38+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:52:43+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000883s ]
+NOTIC: [8] Undefined index: exl D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000745s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000865s ]
+
+[ 2017-04-26T14:53:45+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:53:45+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:53:45+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:53:45+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:53:45+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:53:45+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:53:45+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:53:45+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:53:48+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000630s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001192s ]
+NOTIC: [8] Undefined index: exl D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000498s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000560s ]
+
+[ 2017-04-26T14:54:26+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:54:26+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:54:26+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:54:26+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:54:26+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:54:26+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:54:26+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T14:54:26+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:04:08+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:04:08+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:04:08+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:04:08+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:04:08+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:04:08+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:04:08+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:04:08+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:04:09+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:04:09+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:04:09+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:04:09+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:04:09+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:04:09+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:04:09+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:04:09+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:26:50+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/echarts.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:26:50+08:00 ] ::1 /examLibrary/admin.php/Student/assets/css/amazeui.min.css
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:26:50+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/theme.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:26:50+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/jquery.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:26:50+08:00 ] ::1 /examLibrary/admin.php/Student/assets/css/amazeui.datatables.min.css
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:26:50+08:00 ] ::1 /examLibrary/admin.php/Student/assets/css/app.css
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:26:50+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:26:50+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:26:50+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:26:50+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:26:50+08:00 ] ::1 /examLibrary/admin.php/Student/assets/css/amazeui.min.css
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:26:50+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/jquery.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:26:50+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/theme.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:26:50+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:26:50+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:26:50+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:26:50+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:26:52+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/echarts.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:26:52+08:00 ] ::1 /examLibrary/admin.php/Student/assets/css/app.css
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:26:52+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/theme.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:26:52+08:00 ] ::1 /examLibrary/admin.php/Student/assets/css/amazeui.datatables.min.css
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:26:52+08:00 ] ::1 /examLibrary/admin.php/Student/assets/css/amazeui.min.css
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:26:52+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/jquery.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:26:52+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:26:52+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:26:52+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:26:52+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:26:52+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/theme.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:26:52+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:26:52+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/amazeui.datatables.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:26:52+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/dataTables.responsive.min.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:26:52+08:00 ] ::1 /examLibrary/admin.php/Student/assets/js/app.js
+ERR: 非法操作:assets
+
+[ 2017-04-26T15:32:59+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001574s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002674s ]
+NOTIC: [8] Undefined index: exl D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003061s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003449s ]
+
+[ 2017-04-26T15:33:23+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000617s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001006s ]
+NOTIC: [8] Undefined index: exl D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000614s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000669s ]
+
+[ 2017-04-26T15:33:56+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000846s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001321s ]
+NOTIC: [8] Undefined index: exl D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002336s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002424s ]
+
+[ 2017-04-26T15:34:27+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002412s ]
+NOTIC: [8] Undefined index: exl D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000999s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001118s ]
+
+[ 2017-04-26T15:34:49+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001727s ]
+NOTIC: [8] Undefined index: exl D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000665s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000720s ]
+
+[ 2017-04-26T15:57:00+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000874s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001428s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000777s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000846s ]
+
+[ 2017-04-26T15:59:19+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003185s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000687s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000757s ]
+
+[ 2017-04-26T15:59:33+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000749s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001223s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001666s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001820s ]
+
+[ 2017-04-26T16:00:55+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000707s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001144s ]
+
+[ 2017-04-26T16:01:05+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001342s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001996s ]
+
+[ 2017-04-26T16:02:19+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001788s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003016s ]
+
+[ 2017-04-26T16:02:32+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000636s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001058s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001510s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001705s ]
+
+[ 2017-04-26T16:05:20+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000749s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001226s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000722s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000809s ]
+
+[ 2017-04-26T16:09:27+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001145s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001686s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000699s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000778s ]
+
+[ 2017-04-26T16:09:36+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001535s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002354s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000865s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000951s ]
+
+[ 2017-04-26T16:10:04+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000822s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001401s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000782s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000860s ]
+
+[ 2017-04-26T16:10:38+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001714s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002387s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001116s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001301s ]
+
+[ 2017-04-26T16:11:43+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000633s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001126s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000662s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000742s ]
+
+[ 2017-04-26T16:12:39+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000725s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002535s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000671s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000733s ]
+
+[ 2017-04-26T16:13:46+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002281s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000631s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000699s ]
+
+[ 2017-04-26T16:14:31+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000905s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001685s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000663s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000738s ]
+
+[ 2017-04-26T16:15:28+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001078s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001927s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000865s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000948s ]
+
+[ 2017-04-26T16:16:42+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000937s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001676s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000990s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001129s ]
+
+[ 2017-04-26T16:18:20+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000668s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001086s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000760s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000864s ]
+
+[ 2017-04-26T16:19:54+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000750s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001228s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000983s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001136s ]
+
+[ 2017-04-26T16:23:34+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000858s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001630s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-04-26T16:24:26+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001585s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000778s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000847s ]
+
+[ 2017-04-26T16:25:11+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000823s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001548s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000823s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000896s ]
+
+[ 2017-04-26T16:25:31+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001015s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001547s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001730s ]
+
+[ 2017-04-26T16:30:09+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001152s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002225s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000878s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000950s ]
+
+[ 2017-04-26T16:34:29+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001651s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000809s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000881s ]
+
+[ 2017-04-26T16:47:09+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000900s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001389s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000740s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000806s ]
+
+[ 2017-04-26T16:48:00+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001038s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000754s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000834s ]
+
+[ 2017-04-26T16:48:28+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000694s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001222s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001173s ]
+
+[ 2017-04-26T16:50:01+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001147s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001619s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001699s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001897s ]
+
+[ 2017-04-26T16:51:34+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000657s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001088s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000664s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000736s ]
+
+[ 2017-04-26T16:51:42+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000667s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001147s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000841s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000911s ]
+
+[ 2017-04-26T16:52:46+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000749s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001227s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-04-26T16:52:57+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002427s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000612s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000675s ]
+
+[ 2017-04-26T16:55:34+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001227s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002729s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Array to string conversion D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 54 行.
+NOTIC: [8] Array to string conversion D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 54 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000771s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000831s ]
+
+[ 2017-04-26T16:55:56+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001191s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000638s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000702s ]
+
+[ 2017-04-26T16:57:12+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001342s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002009s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000730s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000798s ]
+
+[ 2017-04-26T16:58:47+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001095s ]
+
+[ 2017-04-26T16:59:04+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001066s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000730s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000799s ]
+
+[ 2017-04-26T16:59:21+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000760s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001287s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-04-26T16:59:46+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000622s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001027s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Use of undefined constant length - assumed 'length' D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 51 行.
+NOTIC: [8] Array to string conversion D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001139s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001212s ]
+
+[ 2017-04-26T17:00:08+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000771s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001415s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Use of undefined constant size - assumed 'size' D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 51 行.
+NOTIC: [8] Array to string conversion D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000707s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000768s ]
+
+[ 2017-04-26T17:01:09+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000962s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001587s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001272s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001468s ]
+
+[ 2017-04-26T17:02:05+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000690s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001129s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined offset: 0 D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 51 行.
+NOTIC: [8] Undefined variable: j D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 53 行.
+NOTIC: [8] Undefined variable: j D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 53 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001193s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001273s ]
+
+[ 2017-04-26T17:02:17+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000602s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001014s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: j D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 53 行.
+NOTIC: [8] Undefined variable: j D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 53 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000776s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000836s ]
+
+[ 2017-04-26T17:03:03+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002477s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined offset: 0 D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 52 行.
+NOTIC: [8] Undefined variable: j D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 54 行.
+NOTIC: [8] Undefined variable: j D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 54 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000751s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000808s ]
+
+[ 2017-04-26T17:03:18+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000658s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001109s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: j D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 54 行.
+NOTIC: [8] Undefined variable: j D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 54 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001086s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001200s ]
+
+[ 2017-04-26T17:04:08+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000879s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001504s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: j D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 55 行.
+NOTIC: [8] Undefined variable: j D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 55 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000955s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001014s ]
+
+[ 2017-04-26T17:04:40+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000614s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001002s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: j D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 53 行.
+NOTIC: [8] Undefined variable: j D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 53 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000663s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000717s ]
+
+[ 2017-04-26T17:06:11+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001114s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001636s ]
+
+[ 2017-04-26T17:06:26+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000835s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001423s ]
+
+[ 2017-04-26T17:08:39+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000700s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001157s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000747s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000815s ]
+
+[ 2017-04-26T17:08:57+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000796s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001306s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Use of undefined constant length - assumed 'length' D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 51 行.
+NOTIC: [8] Array to string conversion D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000647s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000706s ]
+
+[ 2017-04-26T17:09:23+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000669s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001028s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Use of undefined constant length - assumed 'length' D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 51 行.
+NOTIC: [8] Array to string conversion D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001508s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001627s ]
+
+[ 2017-04-26T17:09:40+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000638s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001048s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000837s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000906s ]
+
+[ 2017-04-26T17:10:06+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000654s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001081s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000835s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000907s ]
+
+[ 2017-04-26T17:11:45+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000832s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001418s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000772s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000839s ]
+
+[ 2017-04-26T17:12:36+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001116s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001969s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000973s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001041s ]
+
+[ 2017-04-26T17:13:25+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001144s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001718s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000688s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000776s ]
+
+[ 2017-04-26T17:24:20+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000638s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001110s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `e_test` [ RunTime:0.0081s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000730s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000786s ]
+
+[ 2017-04-26T17:24:41+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000846s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001314s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `e_test` [ RunTime:0.0075s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000738s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000793s ]
+
+[ 2017-04-26T17:26:39+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001465s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `e_test` [ RunTime:0.0068s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000836s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000894s ]
+
+[ 2017-04-26T17:27:16+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001776s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `e_test` [ RunTime:0.0073s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000760s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000817s ]
+
+[ 2017-04-26T17:27:58+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000616s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001070s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `e_test` [ RunTime:0.0072s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001516s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001580s ]
+
+[ 2017-04-26T17:28:26+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000599s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000992s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `e_test` [ RunTime:0.0084s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000870s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000930s ]
+
+[ 2017-04-26T17:28:32+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000743s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001237s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `e_test` [ RunTime:0.0108s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001455s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001549s ]
+
+[ 2017-04-26T17:29:53+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000614s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000975s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `e_test` [ RunTime:0.0061s ]
+SQL: INSERT INTO `e_test` (`id`,`account`,`nickname`) VALUES ('12','2','1') [ RunTime:0.0468s ]
+ERR: 1062:Duplicate entry '12' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `e_test` (`id`,`account`,`nickname`) VALUES ('12','2','1')
+ERR: 1062:Duplicate entry '12' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `e_test` (`id`,`account`,`nickname`) VALUES ('12','2','1')
+
+[ 2017-04-26T17:31:11+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001451s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002674s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `e_test` [ RunTime:0.0072s ]
+ERR: 1062:Duplicate entry '12' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `e_test` (`id`,`account`,`nickname`) VALUES ('12','2','1')
+ERR: 1062:Duplicate entry '12' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `e_test` (`id`,`account`,`nickname`) VALUES ('12','2','1')
+
+[ 2017-04-26T17:31:34+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000738s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001213s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `e_test` [ RunTime:0.0089s ]
+SQL: INSERT INTO `e_test` (`id`,`account`,`nickname`) VALUES ('12','2','1') [ RunTime:0.0578s ]
+SQL: INSERT INTO `e_test` (`id`,`account`,`nickname`) VALUES ('3','4','2') [ RunTime:0.0175s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001013s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001075s ]
+
+[ 2017-04-26T17:34:45+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000888s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001429s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+ERR: Think\Controller:import_exl方法不存在！
+
+[ 2017-04-26T17:35:05+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000685s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001102s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+ERR: Think\Controller:import_exl方法不存在！
+
+[ 2017-04-26T17:35:48+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002023s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `e_test` [ RunTime:0.0081s ]
+SQL: INSERT INTO `e_test` (`id`,`account`,`nickname`) VALUES ('12','2','1') [ RunTime:0.0406s ]
+SQL: INSERT INTO `e_test` (`id`,`account`,`nickname`) VALUES ('3','4','2') [ RunTime:0.0185s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000972s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001040s ]
+
+[ 2017-04-26T17:38:40+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000824s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001389s ]
+
+[ 2017-04-26T17:39:15+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000627s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001027s ]
+
+[ 2017-04-26T17:40:09+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001472s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003150s ]
+
+[ 2017-04-26T19:05:07+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000860s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001482s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: upload D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 18 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 18 行.
+ERR: Could not open /Uploads/20170426/59007ee3cbbea.xls for reading! File does not exist, or it is not readable.
+
+[ 2017-04-26T19:05:41+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000815s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001366s ]
+
+[ 2017-04-26T19:05:45+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000845s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001442s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: upload D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 18 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 18 行.
+ERR: Could not open /Uploads/20170426/59007f09ed6dd.xls for reading! File does not exist, or it is not readable.
+
+[ 2017-04-26T19:07:04+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000837s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001421s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: upload D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 18 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 18 行.
+ERR: Could not open /Uploads/20170426/59007f589e7d4.xls for reading! File does not exist, or it is not readable.
+
+[ 2017-04-26T19:07:28+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000800s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001317s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: upload D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 19 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 19 行.
+ERR: Could not open /Uploads/20170426/59007f70c9654.xls for reading! File does not exist, or it is not readable.
+
+[ 2017-04-26T19:08:32+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000875s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001463s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: upload D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 20 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 20 行.
+ERR: Could not open /Uploads/20170426/59007fb0a5585.xls for reading! File does not exist, or it is not readable.
+
+[ 2017-04-26T19:10:56+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001992s ]
+
+[ 2017-04-26T19:14:06+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000887s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001391s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-04-26T19:15:44+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001831s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002910s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 19 行.
+ERR: Could not open /Uploads/20170426/59008160a985f.xls for reading! File does not exist, or it is not readable.
+
+[ 2017-04-26T19:16:30+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003567s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 19 行.
+
+[ 2017-04-26T19:17:26+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000791s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001287s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 19 行.
+ERR: Could not open /Uploads/20170426/590081c6c4403.xls for reading! File does not exist, or it is not readable.
+
+[ 2017-04-26T19:18:21+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000872s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001477s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 19 行.
+
+[ 2017-04-26T19:20:44+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000865s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001319s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 19 行.
+ERR: Could not open /Uploads/20170426/5900828cc3a9a.xls for reading! File does not exist, or it is not readable.
+
+[ 2017-04-26T19:22:01+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000764s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001242s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 19 行.
+ERR: Could not open /Uploads/20170426/590082d961cd4.xls for reading! File does not exist, or it is not readable.
+
+[ 2017-04-26T19:22:47+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000905s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001459s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 19 行.
+ERR: Could not open /Uploads/20170426/59008307bd07d.xls for reading! File does not exist, or it is not readable.
+
+[ 2017-04-26T19:22:54+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000999s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001745s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 19 行.
+ERR: Could not open /Uploads/20170426/5900830e51f66.xls for reading! File does not exist, or it is not readable.
+
+[ 2017-04-26T19:26:30+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000833s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001420s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 19 行.
+ERR: Could not open /Uploads/20170426/590083e689057.xls for reading! File does not exist, or it is not readable.
+
+[ 2017-04-26T19:26:51+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000731s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001203s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 19 行.
+
+[ 2017-04-26T19:27:22+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000733s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001225s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 19 行.
+ERR: Could not open /Uploads/20170426/5900841a389d1.xls for reading! File does not exist, or it is not readable.
+
+[ 2017-04-26T19:27:56+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000983s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001564s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 19 行.
+
+[ 2017-04-26T19:28:17+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002638s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 19 行.
+ERR: Could not open /Uploads/20170426/59008451d06f7.xls for reading! File does not exist, or it is not readable.
+
+[ 2017-04-26T19:28:27+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001513s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002263s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 19 行.
+
+[ 2017-04-26T19:30:03+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000794s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001291s ]
+NOTIC: [8] Undefined variable: info D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 86 行.
+NOTIC: [8] Undefined variable: info D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 86 行.
+
+[ 2017-04-26T19:30:56+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000860s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001451s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-04-26T19:31:45+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000900s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001821s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 19 行.
+
+[ 2017-04-26T19:33:20+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000761s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001383s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 19 行.
+ERR: Could not open 0/Uploads/20170426/5900858033a39.xls for reading! File does not exist, or it is not readable.
+
+[ 2017-04-26T19:34:05+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000762s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001267s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 19 行.
+ERR: Could not open /Uploads/20170426/590085adbc65d.xls for reading! File does not exist, or it is not readable.
+
+[ 2017-04-26T19:35:38+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000924s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001536s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-04-26T19:36:31+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000804s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001304s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 19 行.
+ERR: Could not open /Uploads/20170426/5900863f6de5c.xls for reading! File does not exist, or it is not readable.
+
+[ 2017-04-26T19:38:25+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000813s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001347s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 44 行.
+ERR: Could not open /Uploads/20170426/590086b1e3e8d.xls for reading! File does not exist, or it is not readable.
+
+[ 2017-04-26T19:38:46+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000834s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001376s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 44 行.
+
+[ 2017-04-26T19:38:57+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000806s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001384s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 44 行.
+ERR: Could not open /Uploads/20170426/590086d16a616.xls for reading! File does not exist, or it is not readable.
+
+[ 2017-04-26T19:42:53+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000812s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001338s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `e_test` [ RunTime:0.0097s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001035s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001141s ]
+
+[ 2017-04-26T19:43:41+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000844s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001513s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `e_test` [ RunTime:0.0043s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000856s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000930s ]
+
+[ 2017-04-26T19:44:04+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000816s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001390s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `e_test` [ RunTime:0.0068s ]
+SQL: INSERT INTO `e_test` (`id`,`account`,`nickname`) VALUES ('12','2','1') [ RunTime:0.3737s ]
+SQL: INSERT INTO `e_test` (`id`,`account`,`nickname`) VALUES ('3','4','2') [ RunTime:0.0287s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001118s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001203s ]
+
+[ 2017-04-26T19:44:19+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000836s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001379s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-04-26T19:44:33+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001095s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001690s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-04-26T19:45:22+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000877s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001407s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-04-26T19:45:30+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000874s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001429s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `e_test` [ RunTime:0.0060s ]
+ERR: 1062:Duplicate entry '12' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `e_test` (`id`,`account`,`nickname`) VALUES ('12','2','1')
+ERR: 1062:Duplicate entry '12' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `e_test` (`id`,`account`,`nickname`) VALUES ('12','2','1')
+
+[ 2017-04-26T19:45:46+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000729s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001215s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `e_test` [ RunTime:0.0067s ]
+SQL: INSERT INTO `e_test` (`id`,`account`,`nickname`) VALUES ('12','2','1') [ RunTime:0.0463s ]
+SQL: INSERT INTO `e_test` (`id`,`account`,`nickname`) VALUES ('3','4','2') [ RunTime:0.0262s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002431s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002647s ]
+
+[ 2017-04-26T19:48:13+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000856s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001463s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-04-26T19:48:16+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000779s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001286s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `e_test` [ RunTime:0.0076s ]
+SQL: INSERT INTO `e_test` (`id`,`account`,`nickname`) VALUES ('12','2','1') [ RunTime:0.0601s ]
+SQL: INSERT INTO `e_test` (`id`,`account`,`nickname`) VALUES ('3','4','2') [ RunTime:0.0257s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001072s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001145s ]
+
+[ 2017-04-26T19:50:20+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000776s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001271s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-04-26T19:50:24+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000724s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001170s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `e_test` [ RunTime:0.0070s ]
+ERR: 1062:Duplicate entry '12' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `e_test` (`id`,`account`,`nickname`) VALUES ('12','2','1')
+ERR: 1062:Duplicate entry '12' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `e_test` (`id`,`account`,`nickname`) VALUES ('12','2','1')
+
+[ 2017-04-26T19:51:30+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000875s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001455s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `e_test` [ RunTime:0.0081s ]
+ERR: 1062:Duplicate entry '12' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `e_test` (`id`,`account`,`nickname`) VALUES ('12','2','1')
+ERR: 1062:Duplicate entry '12' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `e_test` (`id`,`account`,`nickname`) VALUES ('12','2','1')
+
+[ 2017-04-26T19:54:25+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001954s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003242s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: upload D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 18 行.
+NOTIC: [8] Trying to get property of non-object D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 18 行.
+ERR: Could not open /Uploads/20170426/59008a714ca04.xls for reading! File does not exist, or it is not readable.
+
+[ 2017-04-26T19:55:28+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000789s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001275s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-04-26T19:55:31+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000760s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001238s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `e_test` [ RunTime:0.0070s ]
+SQL: INSERT INTO `e_test` (`id`,`account`,`nickname`) VALUES ('12','2','1') [ RunTime:0.0003s ]
+SQL: INSERT INTO `e_test` (`id`,`account`,`nickname`) VALUES ('3','4','2') [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001071s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001164s ]
+
+[ 2017-04-26T19:57:00+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000933s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001475s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `e_test` [ RunTime:0.0082s ]
+ERR: 1062:Duplicate entry '12' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `e_test` (`id`,`account`,`nickname`) VALUES ('12','2','1')
+ERR: 1062:Duplicate entry '12' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `e_test` (`id`,`account`,`nickname`) VALUES ('12','2','1')
+
+[ 2017-04-26T19:57:37+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000828s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001367s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `e_test` [ RunTime:0.0073s ]
+SQL: INSERT INTO `e_test` (`id`,`account`,`nickname`) VALUES ('121','2','1苏') [ RunTime:0.0003s ]
+ERR: 1062:Duplicate entry '12' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `e_test` (`id`,`account`,`nickname`) VALUES ('12','2','1')
+ERR: 1062:Duplicate entry '12' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `e_test` (`id`,`account`,`nickname`) VALUES ('12','2','1')
+
+[ 2017-04-26T19:57:59+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000780s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001408s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `e_test` [ RunTime:0.0065s ]
+SQL: INSERT INTO `e_test` (`id`,`account`,`nickname`) VALUES ('121','2','1苏') [ RunTime:0.0004s ]
+ERR: 1062:Duplicate entry '12' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `e_test` (`id`,`account`,`nickname`) VALUES ('12','2','1')
+ERR: 1062:Duplicate entry '12' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `e_test` (`id`,`account`,`nickname`) VALUES ('12','2','1')
+
+[ 2017-04-26T20:00:31+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000814s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001330s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `e_test` [ RunTime:0.0069s ]
+SQL: INSERT INTO `e_test` (`id`,`account`,`nickname`) VALUES ('121','2','1苏') [ RunTime:0.0003s ]
+ERR: 1062:Duplicate entry '12' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `e_test` (`id`,`account`,`nickname`) VALUES ('12','2','1')
+ERR: 1062:Duplicate entry '12' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `e_test` (`id`,`account`,`nickname`) VALUES ('12','2','1')
+
+[ 2017-04-26T20:01:19+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000957s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001678s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `e_test` [ RunTime:0.0064s ]
+SQL: INSERT INTO `e_test` (`id`,`account`,`nickname`) VALUES ('121','2','1苏') [ RunTime:0.0003s ]
+SQL: INSERT INTO `e_test` (`id`,`account`,`nickname`) VALUES ('12','2','1') [ RunTime:0.0014s ]
+
+[ 2017-04-26T20:01:57+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000858s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001440s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `e_test` [ RunTime:0.0075s ]
+SQL: INSERT INTO `e_test` (`id`,`account`,`nickname`) VALUES ('11','2','1苏') [ RunTime:0.0003s ]
+ERR: 1062:Duplicate entry '12' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `e_test` (`id`,`account`,`nickname`) VALUES ('12','2','1')
+ERR: 1062:Duplicate entry '12' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `e_test` (`id`,`account`,`nickname`) VALUES ('12','2','1')
+
+[ 2017-04-26T20:02:29+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000782s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001366s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `e_test` [ RunTime:0.0063s ]
+SQL: INSERT INTO `e_test` (`id`,`account`,`nickname`) VALUES ('11','2','1苏') [ RunTime:0.0003s ]
+ERR: 1062:Duplicate entry '12' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `e_test` (`id`,`account`,`nickname`) VALUES ('12','2','1')
+ERR: 1062:Duplicate entry '12' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `e_test` (`id`,`account`,`nickname`) VALUES ('12','2','1')
+
+[ 2017-04-26T20:02:50+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000769s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001222s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `e_test` [ RunTime:0.0069s ]
+SQL: INSERT INTO `e_test` (`id`,`account`,`nickname`) VALUES ('11','2','1苏') [ RunTime:0.0003s ]
+ERR: 1062:Duplicate entry '12' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `e_test` (`id`,`account`,`nickname`) VALUES ('12','2','1')
+ERR: 1062:Duplicate entry '12' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `e_test` (`id`,`account`,`nickname`) VALUES ('12','2','1')
+

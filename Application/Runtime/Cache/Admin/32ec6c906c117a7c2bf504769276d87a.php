@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -10,20 +10,20 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="renderer" content="webkit">
 <meta http-equiv="Cache-Control" content="no-siteapp" />
-<link rel="icon" type="image/png" href="__PUBLIC__/assets/i/favicon.png">
+<link rel="icon" type="image/png" href="/examLibrary/Public/assets/i/favicon.png">
 <link rel="apple-touch-icon-precomposed"
-	href="__PUBLIC__/assets/i/app-icon72x72@2x.png">
+	href="/examLibrary/Public/assets/i/app-icon72x72@2x.png">
 <meta name="apple-mobile-web-app-title" content="Amaze UI" />
-<link rel="stylesheet" href="__PUBLIC__/assets/css/amazeui.min.css" />
+<link rel="stylesheet" href="/examLibrary/Public/assets/css/amazeui.min.css" />
 <link rel="stylesheet"
-	href="__PUBLIC__/assets/css/amazeui.datatables.min.css" />
-<link rel="stylesheet" href="__PUBLIC__/assets/css/app.css">
-<script src="__PUBLIC__/assets/js/jquery.min.js"></script>
+	href="/examLibrary/Public/assets/css/amazeui.datatables.min.css" />
+<link rel="stylesheet" href="/examLibrary/Public/assets/css/app.css">
+<script src="/examLibrary/Public/assets/js/jquery.min.js"></script>
 
 </head>
 
 <body data-type="login">
-	<script src="__PUBLIC__/assets/js/theme.js"></script>
+	<script src="/examLibrary/Public/assets/js/theme.js"></script>
 	<div class="am-g tpl-g">
 		<!-- 风格切换 
 		<div class="tpl-skiner">
@@ -40,7 +40,7 @@
 		<div class="tpl-login">
 			<div class="tpl-login-content">
 				<div class="tpl-login-logo"></div>
-				<form class="am-form tpl-form-line-form" action="__MODULE__/Index/index">
+				<form class="am-form tpl-form-line-form" action="/examLibrary/admin.php/Index/index">
 					<div class="am-form-group">
 						<input type="text" class="tpl-form-input" id="user-name"
 							placeholder="请输入账号">
@@ -66,8 +66,8 @@
 			</div>
 		</div>
 	</div>
-	<script src="__PUBLIC__/assets/js/amazeui.min.js"></script>
-	<script src="__PUBLIC__/assets/js/app.js"></script>
+	<script src="/examLibrary/Public/assets/js/amazeui.min.js"></script>
+	<script src="/examLibrary/Public/assets/js/app.js"></script>
 
 </body>
 

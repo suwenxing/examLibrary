@@ -1,0 +1,27 @@
+[ 2017-04-26T10:33:03+08:00 ] ::1 /examLibrary/admin.php/Login
+ERR: 模板不存在:./Application/Admin/View/Login/index.html
+
+[ 2017-04-26T10:35:27+08:00 ] ::1 /examLibrary/admin.php/assets/css/amazeui.min.css
+ERR: 无法加载控制器:Assets
+
+[ 2017-04-26T10:35:27+08:00 ] ::1 /examLibrary/admin.php/assets/css/admin.css
+ERR: 无法加载控制器:Assets
+
+[ 2017-04-26T10:35:27+08:00 ] ::1 /examLibrary/admin.php/assets/css/app.css
+ERR: 无法加载控制器:Assets
+
+[ 2017-04-26T10:35:27+08:00 ] ::1 /examLibrary/admin.php/assets/js/jquery.min.js
+ERR: 无法加载控制器:Assets
+
+[ 2017-04-26T10:35:27+08:00 ] ::1 /examLibrary/admin.php/assets/js/amazeui.min.js
+ERR: 无法加载控制器:Assets
+
+[ 2017-04-26T10:35:27+08:00 ] ::1 /examLibrary/admin.php/assets/js/app.js
+ERR: 无法加载控制器:Assets
+
+[ 2017-04-26T10:35:27+08:00 ] ::1 /examLibrary/admin.php/assets/js/amazeui.min.js
+ERR: 无法加载控制器:Assets
+
+[ 2017-04-26T10:35:27+08:00 ] ::1 /examLibrary/admin.php/assets/js/app.js
+ERR: 无法加载控制器:Assets
+

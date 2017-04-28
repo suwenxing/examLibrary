@@ -7,3 +7,21 @@ ERR: 无法加载控制器:Login
 [ 2017-04-26T20:40:34+08:00 ] ::1 /examLibrary/index.php/Login
 ERR: 无法加载控制器:Login
 
+[ 2017-04-26T22:18:47+08:00 ] 127.0.0.1 /examLibrary/index.php/Loginn
+ERR: 无法加载控制器:Loginn
+
+[ 2017-04-26T22:19:01+08:00 ] 127.0.0.1 /examLibrary/index.php/home.php
+ERR: 无法加载控制器:Home.php
+
+[ 2017-04-26T22:19:40+08:00 ] 127.0.0.1 /examLibrary/index.php/home
+ERR: 无法加载控制器:Home
+
+[ 2017-04-26T22:19:42+08:00 ] 127.0.0.1 /examLibrary/index.php/home.php
+ERR: 无法加载控制器:Home.php
+
+[ 2017-04-26T22:19:46+08:00 ] 127.0.0.1 /examLibrary/index.php/admin
+ERR: 无法加载控制器:Admin
+
+[ 2017-04-26T22:19:53+08:00 ] ::1 /examLibrary/index.php/Loginn
+ERR: 无法加载控制器:Loginn
+

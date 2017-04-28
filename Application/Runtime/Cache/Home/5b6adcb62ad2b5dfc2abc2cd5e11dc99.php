@@ -19,11 +19,10 @@
 	href="/examLibrary/Public/assets/css/amazeui.datatables.min.css" />
 <link rel="stylesheet" href="/examLibrary/Public/assets/css/app.css">
 <script src="/examLibrary/Public/assets/js/jquery.min.js"></script>
-
 </head>
 
 <body data-type="login">
-	<script src="/examLibrary/Public/assets/js/theme.js"></script>
+<script src="/examLibrary/Public/assets/js/theme.js"></script>
 	<div class="am-g tpl-g">
 		<!-- 风格切换 
 		<div class="tpl-skiner">
@@ -37,18 +36,18 @@
 			</div>
 		</div>
 		-->
-		<div class="tpl-login">
+		<div class="tpl-login" id="form-with-tooltip">
 			<div class="tpl-login-content">
 				<div class="tpl-login-logo"></div>
 				<form class="am-form tpl-form-line-form" action="/examLibrary/index.php/Login/login">
 					<div class="am-form-group">
-						<input type="text" class="tpl-form-input" id="user-name" minlength="2"  pattern="^\d{10}$" required 
+						<input type="text" class="tpl-form-input" id="user-number"  pattern="^\d{10}$" required   oninvalid="setCustomValidity('不输入十位学号就想走吗！不存在的！')" oninput="setCustomValidity('')" 
 							placeholder="童鞋，你的学号是多少O(∩_∩)O">
 					</div>
 
 					<div class="am-form-group">
-						<input type="text" class="tpl-form-input" id="user-name" minlength="2"  required
-							placeholder="童鞋，久仰您的的大名(*^__^*)">
+						<input type="text" class="tpl-form-input" id="user-name" minlength="2"  required  oninvalid="setCustomValidity('姓名至少两位哦同学')" oninput="setCustomValidity('')" 
+							placeholder="童鞋，久仰您的的大名(*^__^*) ">
 
 					</div>
 					<!--  
@@ -60,7 +59,7 @@
 					-->
 					<div class="am-form-group am-margin-top-lg">
 						<button type="submit"
-							class="am-btn am-btn-primary  am-btn-block tpl-btn-bg-color-success  tpl-login-btn">提交</button>
+							class="am-btn am-btn-primary  am-btn-block tpl-btn-bg-color-success  tpl-login-btn"  style=" margin-top:36px;">进入考试吧！加油！</button>
 					</div>
 				</form>
 			</div>

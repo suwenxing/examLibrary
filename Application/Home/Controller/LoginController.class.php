@@ -6,7 +6,7 @@ class LoginController extends Controller {
         $this->display();
     }
     
-    public function login(){
-    	echo 1;
+ 	public function login(){
+    	$this->display();
     }
 }

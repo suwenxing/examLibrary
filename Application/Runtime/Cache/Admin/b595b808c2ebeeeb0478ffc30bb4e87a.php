@@ -393,9 +393,6 @@
 <script src="/examLibrary/Public/assets/js/dataTables.responsive.min.js"></script>
 <script src="/examLibrary/Public/assets/js/app.js"></script>
 <script>
-	$(function(){
-		$.AMUI.progress.start();
-	});
 </script>
 </body>
 

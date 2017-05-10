@@ -10,4 +10,9 @@ return array(
     'DB_PREFIX'             =>  'e_',          // 数据库表前缀
     
     'SHOW_PAGE_TRACE' =>true,
+
+				// 使用 'ERROR_PAGE' 的配置不能返回 404 状态码
+				'TMPL_EXCEPTION_FILE'   => SPSTATIC.'404.html',
+				//'ERROR_PAGE'   => __ROOT__.'/statics/404.html',
+
 );

@@ -5,17 +5,6 @@ class LoginController extends Controller {
     public function index(){
         $this->display();
     }
-    
- 	public function login(){
-    	$this->display();
-    }
-    public function answer(){
-    	$this->display();
-    	
-    }
-    public function score(){
-    	
-    	$this->display();
-    }
+
 }
 

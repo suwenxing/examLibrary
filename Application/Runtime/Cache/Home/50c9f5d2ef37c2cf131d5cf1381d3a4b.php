@@ -9,7 +9,6 @@
 <link rel="stylesheet" href="/examLibrary/Public/assets/css/amazeui.min.css" />
 
 <link rel="stylesheet" href="/examLibrary/Public/assets/css/app.css">
-
 </head>
 <body class="theme-white">
 	<div class="am-container tpl-confirm-content">
@@ -17,9 +16,9 @@
 			<div class="tit" style="font-weight: bold; color: #DC143C;">信息确认</div>
 			<span class="short_line"></span>
 			<div class="information1">
-				<span><i class="am-icon-user am-icon-fw"></i>姓名：</span> <span><i
-					class="am-icon-bell am-icon-fw"></i>学号：</span> <span><i
-					class="am-icon-certificate am-icon-fw"></i>专业班级：</span>
+				<span><i class="am-icon-user am-icon-fw"></i>姓名：</span> <span>
+				<i class="am-icon-bell am-icon-fw"></i>学号：</span> <span>
+				<i class="am-icon-certificate am-icon-fw"></i>专业班级：</span>
 			</div>
 		</div>
 		<hr />
@@ -34,11 +33,13 @@
 				5.如遇突发情况，如断网、接听电话、电脑死机、断电等，请关闭浏览器或计算机。当可以作答时，再次使用您的通行证和邮箱重新登录，即可继续作答。
 			</div>
 		</div>
+		<form action="/examLibrary/index.php/Loginanswer">
+
 		<div class="am-form-group am-margin-top-lg">
-			<button type="button"
-				class="am-btn am-btn-primary  am-btn-block am-radius">确认之后大胆大题吧！</button>
+			<button type="button" id="np-status"  class="am-btn am-btn-primary  am-btn-block am-radius">确认之后大胆答题吧！</button>
 		</div>
-	</div>
+		</form>
+</div>
 
 
 

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
  
 <html>
 <head>
@@ -18,10 +18,10 @@
 <script src="http://res.nie.netease.com/comm/html5/html5shiv.js"></script>
 <![endif]-->
 
-<link type="text/css" rel="stylesheet" href="__PUBLIC__/assets/css/base.css" media="all">
-<link type="text/css" rel="stylesheet" href="__PUBLIC__/assets/css/index_c211cbd.css">
+<link type="text/css" rel="stylesheet" href="/examLibrary/Public/assets/css/base.css" media="all">
+<link type="text/css" rel="stylesheet" href="/examLibrary/Public/assets/css/index_c211cbd.css">
 <style type="text/css">
-.adbase-ctn { background: url(__PUBLIC__/assets/img/loading.png) center center no-repeat; }
+.adbase-ctn { background: url(/examLibrary/Public/assets/img/loading.png) center center no-repeat; }
 </style>
 <style type="text/css">
 #NIE-copyRight a { text-decoration: none; }

@@ -5,6 +5,7 @@ class LoginController extends Controller {
     public function index(){
         $this->display();
     }
+<<<<<<< HEAD
     
  	public function login(){
     	$this->display();
@@ -17,5 +18,8 @@ class LoginController extends Controller {
     	
     	$this->display();
     }
+=======
+
+>>>>>>> branch 'master' of https://github.com/suwenxing/examLibrary.git
 }
 

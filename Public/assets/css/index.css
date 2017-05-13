@@ -4,9 +4,9 @@ body, html { background: #fafafa }
 .content { position: relative; margin: 130px auto }
 .content .top { position: relative; margin: 30px auto 20px; width: 570px }
 .top_phone { position: relative; margin: 30px auto 20px; width: 554px; height: 105px; background: url(../img/sign_phone_10708ca.png); display: none }
-.top .sign { color: #333; font-size: 20px; font-style: italic; font-weight: 700; line-height: 30px; width: 340px }
+.top .sign { color: #333; font-size: 20px;  font-weight: 700; line-height: 30px; width: 340px }
 span.fontRed { color: #cf0f32 }
-.index-btn { background: url(../img/index_btn_1e91c4a.png); width: 167px; height: 51px; display: block; position: absolute; right: 5px; top: 5px }
+.index-btn { background: url(../img/index_btn_1e91c4a.png) no-repeat; width: 167px; height: 51px; display: block; position: absolute; right: 5px; top: 5px }
 .btn-phone { background: url(../img/btn_phone_34f0bf1.png) center center no-repeat; display: none; position: relative; margin: 50px auto 0; min-width: 280px; width: 720px }
 .game { width: 554px; height: 608px; background: url(../img/game_a48f443.png); margin: auto; position: relative }
 .ready { width: 120px; height: 22px; background: url(../img/ready_b3fce9f.png); position: absolute; top: 368px; left: 213px }

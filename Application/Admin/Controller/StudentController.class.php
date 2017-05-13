@@ -2,9 +2,7 @@
 
 namespace Admin\Controller;
 
-use Think\Controller;
-
-class StudentController extends Controller {
+class StudentController extends PublicController {
 	public function stulist() {
 		$this->display ();
 	}

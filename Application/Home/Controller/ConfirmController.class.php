@@ -1,8 +1,7 @@
 <?php
 namespace Home\Controller;
-use Think\Controller;
 
-class ConfirmController extends Controller{
+class ConfirmController extends PublicController{
 	public function index(){
 		$this->display();
 	}

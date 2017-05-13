@@ -1,8 +1,8 @@
 <?php
 
 namespace Admin\Controller;
-use Think\Controller;
-class CommonController extends Controller {
+ 
+class CommonController extends PublicController {
 	public function upload(){
 		$files = $_FILES['exl'];
 		// exl格式，否则重新上传

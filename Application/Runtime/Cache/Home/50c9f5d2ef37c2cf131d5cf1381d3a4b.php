@@ -7,13 +7,13 @@
 <script src="/examLibrary/Public/assets/js/jquery.min.js"></script>
 <script src="/examLibrary/Public/assets/js/theme.js"></script>
 <link rel="stylesheet" href="/examLibrary/Public/assets/css/amazeui.min.css" />
-
 <link rel="stylesheet" href="/examLibrary/Public/assets/css/app.css">
+
 </head>
 <body class="theme-white">
 	<div class="am-container tpl-confirm-content">
-		<div class="container" style="background: #F0FFFF">
-			<div class="tit" style="font-weight: bold; color: #DC143C;">信息确认</div>
+		<div class="container container-remark ">
+			<div class="tit tit-remark">信息确认</div>
 			<span class="short_line"></span>
 			<div class="information1">
 				<span><i class="am-icon-user am-icon-fw"></i>姓名：</span> <span>
@@ -40,9 +40,6 @@
 		</div>
 		</form>
 </div>
-
-
-
 
 </body>
 </html>

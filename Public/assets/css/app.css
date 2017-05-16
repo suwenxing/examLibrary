@@ -1967,3 +1967,83 @@ ul.tpl-dropdown-content .tpl-dropdown-menu-messages-item .menu-messages-content 
 	border-radius: 4px;
 	margin: 5% auto 0;
 }
+.container-remark{
+background: #F0FFFF
+}
+.tit-remark{
+font-weight: bold;
+ color: #DC143C;
+}
+.am-containers {
+ width: 70%;
+border: 1px;
+border-radius: 4px;
+display: block;
+background-color: #fff;
+padding-left: 1.5rem;
+padding-right: 1.5rem;
+margin: 5% auto 5%;
+max-width: 800px;
+box-sizing: border-box;
+
+}
+.header-remark{
+ text-indent:8px; 
+ margin:5px 0 10px;
+ }
+ .ball-remark{
+background:#e9ecf3;
+width:60%;
+height:20%px;
+margin:10% auto;
+text-align:center;
+padding:10%
+
+}
+
+.panel-remark
+{
+
+margin:0 10px 10px 10px;
+}
+
+
+.body-color
+{
+background:#e9ecf3;
+}
+
+.pagination-remark{
+float:right
+}
+
+.passorno
+{
+  padding:1%; 
+  font-size:30px;
+  margin:9% 16%;
+  color:#FFA07A;
+}
+.score
+{
+font-size:18px;
+margin:4% 18%;
+color:#2F4F4F;
+  
+}
+.tpl-login-content-remark{
+padding:20px;
+}
+
+.grade1{
+float:left;
+color:#2F4F4F;
+
+}
+
+.grade{
+ font-size:23px;
+ color:#D19275;
+ line-height: 30px;
+
+}

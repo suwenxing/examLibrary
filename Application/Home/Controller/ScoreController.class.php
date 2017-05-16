@@ -1,6 +1,7 @@
 <?php
 namespace Home\Controller;
-class ScoreController extends PublicController{
+use Think\Controller;
+class ScoreController extends Controller{
 	
 	public function index(){
 		

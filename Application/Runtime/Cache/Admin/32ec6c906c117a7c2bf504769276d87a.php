@@ -40,14 +40,14 @@
 		<div class="tpl-login">
 			<div class="tpl-login-content">
 				<div class="tpl-login-logo"></div>
-				<form class="am-form tpl-form-line-form" action="/examLibrary/admin.php/Index/index">
+				<form class="am-form tpl-form-line-form" action="/examLibrary/admin.php/Login/login" method="post">
 					<div class="am-form-group">
-						<input type="text" class="tpl-form-input" id="user-name" required
+						<input type="text" class="tpl-form-input" name="username" id="user-name" required 
 							placeholder="请输入账号">
 					</div>
 
 					<div class="am-form-group">
-						<input type="password" class="tpl-form-input" id="user-name" required
+						<input type="password" class="tpl-form-input" name="password" id="user-name" required
 							placeholder="请输入密码">
 
 					</div>

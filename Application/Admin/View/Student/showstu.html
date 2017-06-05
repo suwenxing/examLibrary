@@ -75,16 +75,15 @@
 									<span class="tpl-form-line-small-title">college</span>
 								</label>
 								<div class="am-u-sm-9">
-									<select data-am-selected="{searchBox: 0}" name="college" id="college"
-										style="display: none;">
-										<foreach name="college" item="vo">  
-											<if condition="$vo['cname'] eq $list['college']">
-												<option value="{$vo['cname']}" selected="true">{$vo['cname']}</option>
-												<else/><option value="{$vo['cname']}">{$vo['cname']}</option>
-											</if>
-											
-										</foreach>
-										 
+									<select data-am-selected="{searchBox: 0}" name="college"
+										id="college" style="display: none;">
+										<foreach name="college" item="vo"> <if
+											condition="$vo['cname'] eq $list['college']">
+										<option value="{$vo['cname']}" selected="true">{$vo['cname']}</option>
+										<else />
+										<option value="{$vo['cname']}">{$vo['cname']}</option>
+										</if> </foreach>
+
 									</select>
 
 								</div>
@@ -94,18 +93,36 @@
 									<span class="tpl-form-line-small-title">college</span>
 								</label>
 								<div class="am-u-sm-9">
-									<select data-am-selected="{searchBox: 0}" name="class" id="classes"
-										style="display: none;">
-										<foreach name="class" item="vo">  
-											<if condition="$vo['clname'] eq $list['class']">
-												<option value="{$vo['clname']}" selected="true">{$vo['clname']}</option>
-												<else/><option value="{$vo['clname']}">{$vo['clname']}</option>
-											</if>
-										</foreach>
+									<select data-am-selected="{searchBox: 0}" name="class"
+										id="classes" style="display: none;">
+										<foreach name="class" item="vo"> <if
+											condition="$vo['clname'] eq $list['class']">
+										<option value="{$vo['clname']}" selected="true">{$vo['clname']}</option>
+										<else />
+										<option value="{$vo['clname']}">{$vo['clname']}</option>
+										</if> </foreach>
 									</select>
 								</div>
 							</div>
+							<div class="am-form-group">
+								<label for="user-intro" class="am-u-sm-3 am-form-label">解锁
+									<span class="tpl-form-line-small-title">unlock</span>
+								</label>
+								<div class="am-u-sm-9">
+									<div class="tpl-switch">
+										<if condition="$list['loginnum'] eq '1' "> <input
+											type="checkbox" name="loginnum"
+											class="ios-switch bigswitch tpl-switch-btn" checked="checked"
+											value="1"> <else /> <input type="checkbox"
+											name="loginnum" class="ios-switch bigswitch tpl-switch-btn">
+										</if>
 
+										<div class="tpl-switch-btn-view">
+											<div></div>
+										</div>
+									</div>
+								</div>
+							</div>
 
 							<div class="am-form-group">
 								<div class="am-u-sm-9 am-u-sm-push-3">
@@ -133,26 +150,31 @@
 	$(function() {
 		//滞空
 
-		$('#college').on('change', function() {
-			var co = $("#xy").find(".am-selected-status ").text();
-			var aj = $.ajax({
-				url : "{:U('Student/getClass')}",// 跳转到 action  
-				data : {
-					cname : co,
-				},
-				type : 'post',
-				success : function(data) {
-					$("#classes").empty();
-					for ( var i = 0; i < data.length; i++) {
-						$("#classes").append("<option value= '"  + data[i]['clname'] + "'>" + data[i]['clname'] + "</option>" );
-					}
-				},
-				error : function() {
-					alert("异常！");
-				}
-			});
+		$('#college').on(
+				'change',
+				function() {
+					var co = $("#xy").find(".am-selected-status ").text();
+					var aj = $.ajax({
+						url : "{:U('Student/getClass')}",// 跳转到 action  
+						data : {
+							cname : co,
+						},
+						type : 'post',
+						success : function(data) {
+							$("#classes").empty();
+							for ( var i = 0; i < data.length; i++) {
+								$("#classes").append(
+										"<option value= '"  + data[i]['clname'] + "'>"
+												+ data[i]['clname']
+												+ "</option>");
+							}
+						},
+						error : function() {
+							alert("异常！");
+						}
+					});
 
-		});
+				});
 	});
 </script>
 </body>

@@ -19,6 +19,7 @@
     <link rel="stylesheet" href="/examLibrary/Public/assets/css/app.css">
     <script src="/examLibrary/Public/assets/js/jquery.min.js"></script>
 	<script src="/examLibrary/Public/assets/js/jquery-form.js"></script>
+
 </head>
 
 <body data-type="widgets">
@@ -121,6 +122,9 @@
 		
 		<li class="sidebar-nav-link"><a href="<?php echo U('College/collegelist');?>"> <i
 				class="am-icon-university sidebar-nav-link-logo"></i> 学院信息管理
+		</a></li>
+		<li class="sidebar-nav-link"><a href="<?php echo U('Menu/menulist');?>"> <i
+				class="am-icon-list sidebar-nav-link-logo"></i> 快捷菜单管理
 		</a></li>
 		
 		<li class="sidebar-nav-link"><a href="<?php echo U('System/index');?>"> <i

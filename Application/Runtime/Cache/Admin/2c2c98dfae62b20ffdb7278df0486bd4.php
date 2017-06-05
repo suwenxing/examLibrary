@@ -123,6 +123,9 @@
 		<li class="sidebar-nav-link"><a href="<?php echo U('College/collegelist');?>"> <i
 				class="am-icon-university sidebar-nav-link-logo"></i> 学院信息管理
 		</a></li>
+		<li class="sidebar-nav-link"><a href="<?php echo U('Menu/menulist');?>"> <i
+				class="am-icon-list sidebar-nav-link-logo"></i> 快捷菜单管理
+		</a></li>
 		
 		<li class="sidebar-nav-link"><a href="<?php echo U('System/index');?>"> <i
 				class="am-icon-gear sidebar-nav-link-logo"></i> 系统设置管理
@@ -130,7 +133,7 @@
 
 	</ul>
 </div>
-	<script type="text/javascript">
+<script type="text/javascript">
 	window.UEDITOR_HOME_URL = '/examLibrary/Public/Ueditor/';
 	window.onload = function() {
 		window.UEDITOR_CONFIG.initialFrameWidth = 1080;
@@ -198,6 +201,21 @@
 								</div>
 							</div>
 							<div class="am-form-group">
+								<label for="user-name" class="am-u-sm-3 am-form-label">首页看板显示
+									<span class="tpl-form-line-small-title">show</span>
+								</label>
+								<div class="am-u-sm-9">
+									<select data-am-selected="{searchBox: 0}" name="show"
+										id="test" style="display: none;">
+										<?php if(is_array($test)): foreach($test as $key=>$vo): if($vo['id'] == $list['show']): ?><option value="<?php echo ($vo['id']); ?>" selected="true"><?php echo ($vo['title']); ?></option>
+										<?php else: ?>
+										<option value="<?php echo ($vo['id']); ?>"><?php echo ($vo['title']); ?></option><?php endif; endforeach; endif; ?>
+
+									</select>
+
+								</div>
+							</div>
+							<div class="am-form-group">
 								<label for="user-name" class="am-u-sm-3 am-form-label">注意事项
 									<span class="tpl-form-line-small-title">attention</span>
 								</label>
@@ -205,7 +223,7 @@
 									<textarea name="attention" id="attention"><?php echo ($list['attention']); ?></textarea>
 								</div>
 							</div>
-							 
+
 							<div class="am-form-group">
 								<div class="am-u-sm-9 am-u-sm-push-3">
 									<button type="submit"

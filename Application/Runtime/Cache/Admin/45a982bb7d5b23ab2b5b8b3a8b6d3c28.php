@@ -123,6 +123,9 @@
 		<li class="sidebar-nav-link"><a href="<?php echo U('College/collegelist');?>"> <i
 				class="am-icon-university sidebar-nav-link-logo"></i> 学院信息管理
 		</a></li>
+		<li class="sidebar-nav-link"><a href="<?php echo U('Menu/menulist');?>"> <i
+				class="am-icon-list sidebar-nav-link-logo"></i> 快捷菜单管理
+		</a></li>
 		
 		<li class="sidebar-nav-link"><a href="<?php echo U('System/index');?>"> <i
 				class="am-icon-gear sidebar-nav-link-logo"></i> 系统设置管理

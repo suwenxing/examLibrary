@@ -1,6 +1,6 @@
 <include file="Public/head" />
 <include file="Public/nav" />
-	<script type="text/javascript">
+<script type="text/javascript">
 	window.UEDITOR_HOME_URL = '__PUBLIC__/Ueditor/';
 	window.onload = function() {
 		window.UEDITOR_CONFIG.initialFrameWidth = 1080;
@@ -68,6 +68,24 @@
 								</div>
 							</div>
 							<div class="am-form-group">
+								<label for="user-name" class="am-u-sm-3 am-form-label">首页看板显示
+									<span class="tpl-form-line-small-title">show</span>
+								</label>
+								<div class="am-u-sm-9">
+									<select data-am-selected="{searchBox: 0}" name="show"
+										id="test" style="display: none;">
+										<foreach name="test" item="vo"> <if
+											condition="$vo['id'] eq $list['show']">
+										<option value="{$vo['id']}" selected="true">{$vo['title']}</option>
+										<else />
+										<option value="{$vo['id']}">{$vo['title']}</option>
+										</if> </foreach>
+
+									</select>
+
+								</div>
+							</div>
+							<div class="am-form-group">
 								<label for="user-name" class="am-u-sm-3 am-form-label">注意事项
 									<span class="tpl-form-line-small-title">attention</span>
 								</label>
@@ -75,7 +93,7 @@
 									<textarea name="attention" id="attention">{$list['attention']}</textarea>
 								</div>
 							</div>
-							 
+
 							<div class="am-form-group">
 								<div class="am-u-sm-9 am-u-sm-push-3">
 									<button type="submit"

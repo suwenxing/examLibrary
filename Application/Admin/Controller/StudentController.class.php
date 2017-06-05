@@ -113,7 +113,8 @@ class StudentController extends PublicController {
 		$college = M('college')->distinct(true)->field('cname')->select();
 		$clwhere = array("cname"=>$model[0]['college']);
 		$class = M('college')->where($clwhere)->select();
-		 
+// 		dump($model[0]);
+// 		exit();
 		$this->assign("list",$model[0]);
 		$this->assign("college",$college);
 		$this->assign("class",$class);
@@ -122,8 +123,15 @@ class StudentController extends PublicController {
 	}
 	// 编辑学生信息
 	public function editstu() {
-		 
+		
 		$data = $_POST;
+		$status = $_POST ['loginnum'];
+		if (!$status) {
+			$data['loginnum'] = 0;
+		} else {
+			$data['loginnum'] = 1;
+		}
+		dump($data);
 		$Model = M ( 'users' );
 		
 		$result = $Model->data ( $data )->save ();

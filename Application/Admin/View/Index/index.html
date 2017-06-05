@@ -1,5 +1,5 @@
-<include file="Public/head"  />
-<include file="Public/nav"  />
+<include file="Public/head" />
+<include file="Public/nav" />
 
 
 <!-- 内容区域 -->
@@ -9,242 +9,84 @@
 		<div class="row">
 			<div class="am-u-sm-12 am-u-md-12 am-u-lg-9">
 				<div class="page-header-heading">
-					<span class="am-icon-home page-header-heading-icon"></span> 管理系统首页 <small>Qust
-						Library</small>
+					<span class="am-icon-home page-header-heading-icon"></span> 管理系统首页
+					<small>Qust Library</small>
 				</div>
 				<p class="page-header-description">欢迎使用青岛科技大学图书馆考试系统</p>
 			</div>
-			 
+
 		</div>
 
 	</div>
-
-	<div class="row-content am-cf">
-		<div class="row  am-cf">
-			<div class="am-u-sm-12 am-u-md-12 am-u-lg-4">
-				<div class="widget am-cf">
-					<div class="widget-head am-cf">
-						<div class="widget-title am-fl">月度财务收支计划</div>
-						<div class="widget-function am-fr">
-							<a href="javascript:;" class="am-icon-cog"></a>
-						</div>
-					</div>
-					<div class="widget-body am-fr">
-						<div class="am-fl">
-							<div class="widget-fluctuation-period-text">
-								￥61746.45
-								<button class="widget-fluctuation-tpl-btn">
-									<i class="am-icon-calendar"></i> 更多月份
-								</button>
+	<section data-am-widget="accordion"
+		class="am-accordion am-accordion-gapped" data-am-accordion='{  }'>
+		<dl class="am-accordion-item am-active">
+			<dt class="am-accordion-title">快捷菜单</dt>
+			<dd class="am-accordion-bd am-collapse am-in">
+				<div class="row  am-cf">
+					<foreach name="list" item="vo">
+					<div class="am-u-sm-12 am-u-md-12 am-u-lg-3" style="float: left">
+						<div class="widget am-cf">
+							<div class="widget-head am-cf">
+								<div class="widget-title am-fl">{$vo.name}</div>
+								<div class="widget-function am-fr">
+									<a href="javascript:;" class="am-icon-cog"></a>
+								</div>
+							</div>
+							<div class="widget-body am-fr">
+								<div class="am-fl">
+									<div class="widget-fluctuation-period-text">
+										{$vo.description} <a href="__MODULE__/{$vo.url}"><button
+												class="widget-fluctuation-tpl-btn">
+												<i class="am-icon-calendar"></i> 点击跳转
+											</button> </a>
+									</div>
+								</div>
 							</div>
 						</div>
-						<div class="am-fr am-cf">
-							<div class="widget-fluctuation-description-amount text-success"
-								am-cf>+￥30420.56</div>
-							<div class="widget-fluctuation-description-text am-text-right">
-								8月份收入</div>
+					</div>
+					</foreach>
+				</div>
+			</dd>
+		</dl>
+	</section>
+	<section data-am-widget="accordion"
+		class="am-accordion am-accordion-gapped" data-am-accordion='{  }'>
+		<dl class="am-accordion-item am-active">
+			<dt class="am-accordion-title">图表看板</dt>
+			<dd class="am-accordion-bd am-collapse am-in">
+				<div class="row am-cf">
+					<div class="am-u-sm-12 am-u-md-6">
+						<div class="widget am-cf">
+							<div class="widget-head am-cf">
+								<div class="widget-title am-fl">全校平均分数柱状图</div>
+								<div class="widget-function am-fr">
+									<a href="javascript:;" class="am-icon-cog"></a>
+								</div>
+							</div>
+							<div
+								class="widget-body-md widget-body tpl-amendment-echarts am-fr"
+								id="school" style="min-height: 400px;"></div>
+						</div>
+					</div>
+
+					<div class="am-u-sm-12 am-u-md-6">
+						<div class="widget am-cf">
+							<div class="widget-head am-cf">
+								<div class="widget-title am-fl">各学院平均分数柱状图</div>
+								<div class="widget-function am-fr">
+									<a href="javascript:;" class="am-icon-cog"></a>
+								</div>
+							</div>
+							<div
+								class="widget-body-md widget-body tpl-amendment-echarts am-fr"
+								id="college" style="min-height: 400px;"></div>
 						</div>
 					</div>
 				</div>
-
-			</div>
-			<div class="am-u-sm-12 am-u-md-6 am-u-lg-4">
-				<div class="widget widget-primary am-cf">
-					<div class="widget-statistic-header">本季度利润</div>
-					<div class="widget-statistic-body">
-						<div class="widget-statistic-value">￥27,294</div>
-						<div class="widget-statistic-description">
-							本季度比去年多收入 <strong>2593元</strong> 人民币
-						</div>
-						<span class="widget-statistic-icon am-icon-credit-card-alt"></span>
-					</div>
-				</div>
-			</div>
-			<div class="am-u-sm-12 am-u-md-6 am-u-lg-4">
-				<div class="widget widget-purple am-cf">
-					<div class="widget-statistic-header">本季度利润</div>
-					<div class="widget-statistic-body">
-						<div class="widget-statistic-value">￥27,294</div>
-						<div class="widget-statistic-description">
-							本季度比去年多收入 <strong>2593元</strong> 人民币
-						</div>
-						<span class="widget-statistic-icon am-icon-support"></span>
-					</div>
-				</div>
-			</div>
-		</div>
-
-		<div class="row am-cf">
-			<div class="am-u-sm-12 am-u-md-8">
-				<div class="widget am-cf">
-					<div class="widget-head am-cf">
-						<div class="widget-title am-fl">月度财务收支计划</div>
-						<div class="widget-function am-fr">
-							<a href="javascript:;" class="am-icon-cog"></a>
-						</div>
-					</div>
-					<div class="widget-body-md widget-body tpl-amendment-echarts am-fr"
-						id="tpl-echarts"></div>
-				</div>
-			</div>
-
-			<div class="am-u-sm-12 am-u-md-4">
-				<div class="widget am-cf">
-					<div class="widget-head am-cf">
-						<div class="widget-title am-fl">专用服务器负载</div>
-						<div class="widget-function am-fr">
-							<a href="javascript:;" class="am-icon-cog"></a>
-						</div>
-					</div>
-					<div class="widget-body widget-body-md am-fr">
-
-						<div class="am-progress-title">
-							CPU Load <span class="am-fr am-progress-title-more">28% /
-								100%</span>
-						</div>
-						<div class="am-progress">
-							<div class="am-progress-bar" style="width: 15%"></div>
-						</div>
-						<div class="am-progress-title">
-							CPU Load <span class="am-fr am-progress-title-more">28% /
-								100%</span>
-						</div>
-						<div class="am-progress">
-							<div class="am-progress-bar  am-progress-bar-warning"
-								style="width: 75%"></div>
-						</div>
-						<div class="am-progress-title">
-							CPU Load <span class="am-fr am-progress-title-more">28% /
-								100%</span>
-						</div>
-						<div class="am-progress">
-							<div class="am-progress-bar am-progress-bar-danger"
-								style="width: 35%"></div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-
-
-		<div class="row am-cf">
-			<div class="am-u-sm-12 am-u-md-12 am-u-lg-4 widget-margin-bottom-lg ">
-				<div class="tpl-user-card am-text-center widget-body-lg">
-					<div class="tpl-user-card-title">禁言小张</div>
-					<div class="achievement-subheading">月度最佳员工</div>
-					<img class="achievement-image"
-						src="__PUBLIC__/assets/img/user07.png" alt="">
-					<div class="achievement-description">
-						禁言小张在 <strong>30天内</strong> 禁言了 <strong>200多</strong>人。
-					</div>
-				</div>
-			</div>
-
-			<div class="am-u-sm-12 am-u-md-12 am-u-lg-8 widget-margin-bottom-lg">
-
-				<div class="widget am-cf widget-body-lg">
-
-					<div class="widget-body  am-fr">
-						<div class="am-scrollable-horizontal ">
-							<table width="100%"
-								class="am-table am-table-compact am-text-nowrap tpl-table-black "
-								id="example-r">
-								<thead>
-									<tr>
-										<th>文章标题</th>
-										<th>作者</th>
-										<th>时间</th>
-										<th>操作</th>
-									</tr>
-								</thead>
-								<tbody>
-									<tr class="gradeX">
-										<td>新加坡大数据初创公司 Latize 获 150 万美元风险融资</td>
-										<td>张鹏飞</td>
-										<td>2016-09-26</td>
-										<td>
-											<div class="tpl-table-black-operation">
-												<a href="javascript:;"> <i class="am-icon-pencil"></i>
-													编辑
-												</a> <a href="javascript:;"
-													class="tpl-table-black-operation-del"> <i
-													class="am-icon-trash"></i> 删除
-												</a>
-											</div>
-										</td>
-									</tr>
-									<tr class="even gradeC">
-										<td>自拍的“政治角色”：观众背对希拉里自拍合影表示“支持”</td>
-										<td>天纵之人</td>
-										<td>2016-09-26</td>
-										<td>
-											<div class="tpl-table-black-operation">
-												<a href="javascript:;"> <i class="am-icon-pencil"></i>
-													编辑
-												</a> <a href="javascript:;"
-													class="tpl-table-black-operation-del"> <i
-													class="am-icon-trash"></i> 删除
-												</a>
-											</div>
-										</td>
-									</tr>
-									<tr class="gradeX">
-										<td>关于创新管理，我想和你当面聊聊。</td>
-										<td>王宽师</td>
-										<td>2016-09-26</td>
-										<td>
-											<div class="tpl-table-black-operation">
-												<a href="javascript:;"> <i class="am-icon-pencil"></i>
-													编辑
-												</a> <a href="javascript:;"
-													class="tpl-table-black-operation-del"> <i
-													class="am-icon-trash"></i> 删除
-												</a>
-											</div>
-										</td>
-									</tr>
-									<tr class="even gradeC">
-										<td>究竟是趋势带动投资，还是投资引领趋势？</td>
-										<td>着迷</td>
-										<td>2016-09-26</td>
-										<td>
-											<div class="tpl-table-black-operation">
-												<a href="javascript:;"> <i class="am-icon-pencil"></i>
-													编辑
-												</a> <a href="javascript:;"
-													class="tpl-table-black-operation-del"> <i
-													class="am-icon-trash"></i> 删除
-												</a>
-											</div>
-										</td>
-									</tr>
-									<tr class="even gradeC">
-										<td>Docker领域再添一员，网易云发布“蜂巢”，加入云计算之争</td>
-										<td>醉里挑灯看键</td>
-										<td>2016-09-26</td>
-										<td>
-											<div class="tpl-table-black-operation">
-												<a href="javascript:;"> <i class="am-icon-pencil"></i>
-													编辑
-												</a> <a href="javascript:;"
-													class="tpl-table-black-operation-del"> <i
-													class="am-icon-trash"></i> 删除
-												</a>
-											</div>
-										</td>
-									</tr>
-
-
-									<!-- more data -->
-								</tbody>
-							</table>
-						</div>
-					</div>
-				</div>
-
-			</div>
-		</div>
-	</div>
+			</dd>
+		</dl>
+	</section>
 </div>
 </div>
 </div>
@@ -252,7 +94,99 @@
 <script src="__PUBLIC__/assets/js/amazeui.datatables.min.js"></script>
 <script src="__PUBLIC__/assets/js/dataTables.responsive.min.js"></script>
 <script src="__PUBLIC__/assets/js/app.js"></script>
-<script>
+<script type="text/javascript">
+	// 基于准备好的dom，初始化echarts实例
+	var schoolChart = echarts.init(document.getElementById('school'));
+	var collegeChart = echarts.init(document.getElementById('college'));
+	// 指定图表的配置项和数据
+	var schoolOption = {
+		title : {
+			text : '全校分数人数分布柱状图'
+		},
+		tooltip : {trigger: 'axis'},
+		toolbox: {
+            top: '0',
+            feature: {
+                saveAsImage: { show: true }
+            }
+        },
+		legend : {
+			//data : [ '销量' ]
+		},
+		xAxis : {
+			name: '分数',
+			data : [ "100-90分", "89-80分", "79-70分", "69-60分", "60分以下" ]
+		},
+		yAxis : {name: '人数'},
+		series : [ {
+			name : '人数',
+			type : 'bar',
+			data : {$pjson},
+			itemStyle: {
+                normal: {
+                    color: '#59aea2'
+                }
+            },
+            label :{
+            	normal:{
+            		show: true,
+            		position:'top'
+            	}
+            }
+           
+		} ]
+	};
+	var collegeOption = {
+			title : {
+				text : '各学院平均分数柱状图'
+			},
+			tooltip : {trigger: 'axis'},
+			toolbox: {
+	            top: '0',
+	            feature: {
+	                saveAsImage: { show: true }
+	            }
+	        },
+			legend : {
+				//data : [ '销量' ]
+			},
+			xAxis : {
+				data : {$cjson},
+				//设置字体倾斜  
+                axisLabel:{  
+                    interval:0,  
+                    rotate:30,//倾斜度 -90 至 90 默认为0  
+                    margin:2,  
+                    textStyle:{  
+                        fontWeight:"bolder",  
+                        color:"#000000"  
+                    }
+				}  
+			},
+			yAxis : {name: '分数'},
+			series : [ {
+				name : '分数',
+				type : 'bar',
+				data : {$ajson},
+				itemStyle: {
+                    normal: {
+                        color: '#32c5d2'
+                    }
+                },
+                label :{
+                	normal:{
+                		show: true,
+                		position:'top'
+                	}
+                }
+			} ]
+		};
+	// 使用刚指定的配置项和数据显示图表。
+	schoolChart.setOption(schoolOption);
+	collegeChart.setOption(collegeOption);
+	
+	
+	
 </script>
 </body>
 

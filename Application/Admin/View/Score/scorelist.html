@@ -1,0 +1,141 @@
+<include file="Public/head" />
+<include file="Public/nav" />
+
+<!-- 内容区域 -->
+<div class="tpl-content-wrapper">
+	<div class="row-content am-cf">
+		<div class="row">
+			<div class="am-u-sm-12 am-u-md-12 am-u-lg-12">
+				<div class="widget am-cf">
+					<div class="widget-head am-cf">
+						<div class="widget-title  am-cf">
+							学生成绩列表 
+						</div>
+					</div>
+					<div class="widget-body  am-fr">
+
+						<div class="am-u-sm-12 am-u-md-6 am-u-lg-6">
+							<div class="am-form-group">
+								<div class="am-btn-toolbar">
+									 
+										<div class="am-form-group am-form-file">
+											<button type="button" class="am-btn am-btn-danger am-btn-sm">
+												<i class="am-icon-file-excel-o"></i> 导出到本地
+											</button>
+											<input id="import" type="file" name="exl" multiple>
+										</div>
+									 
+
+								</div>
+							</div>
+						</div>
+
+						<div class="am-u-sm-12 am-u-md-6 am-u-lg-3">
+							<div class="am-form-group tpl-table-list-select">
+								 
+							</div>
+						</div>
+						<div class="am-u-sm-12 am-u-md-12 am-u-lg-3">
+							<form method="post" action="__CONTROLLER__/seachscore">
+							<div
+								class="am-input-group am-input-group-sm tpl-form-border-form cl-p">
+								<input type="text" class="am-form-field " name="user"> <span
+									class="am-input-group-btn" >
+									<button
+										class="am-btn  am-btn-default am-btn-success tpl-table-list-field am-icon-search"
+										type="submit"></button>
+								</span>
+							</div>
+							</form>
+						</div>
+
+						<div class="am-u-sm-12">
+							<table width="100%"
+								class="am-table am-table-compact am-table-striped tpl-table-black "
+								id="example-r">
+								<thead>
+									<tr>
+										<th>学号</th>
+										<th>姓名</th>
+										<th>性别</th>
+										<th>学院</th>
+										<th>专业班级</th>
+										 <th>分数</th>
+										<th>操作</th>
+									</tr>
+								</thead>
+								<tbody>
+									<foreach name="list" item="vo">
+									<tr class="gradeX">
+										<td>{$vo.usernumber}</td>
+										<td>{$vo.username}</td>
+										<if condition="$vo['sex'] eq 1">
+										<td>男</td>
+										<elseif condition="$vo['sex'] eq 0" />
+										<td>女</td>
+										</if>
+										<td>{$vo.college}</td>
+										<td>{$vo.class}</td>
+									 	<th>{$vo.score}</th>
+										<td>
+											<div class="tpl-table-black-operation">
+												<a href="{:U('Student/showstu',array('id' => $vo['id']))}">
+													<i class="am-icon-pencil"></i> 编辑
+												</a> <a href="{:U('Student/delstu',array('id' => $vo['id']))}"
+													onclick="return confirm('确定删除')"
+													class="tpl-table-black-operation-del"> <i
+													class="am-icon-trash"></i> 删除
+												</a>
+											</div>
+										</td>
+									</tr>
+									</foreach>
+
+
+									<!-- more data -->
+								</tbody>
+							</table>
+						</div>
+						<div class="am-u-lg-12 am-cf">
+							<div class="am-fr">
+								<div class="am-pagination tpl-pagination">{$page}</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+</div>
+<script src="__PUBLIC__/assets/js/amazeui.min.js"></script>
+<script src="__PUBLIC__/assets/js/amazeui.datatables.min.js"></script>
+<script src="__PUBLIC__/assets/js/dataTables.responsive.min.js"></script>
+<script src="__PUBLIC__/assets/js/app.js"></script>
+<script type="text/javascript">
+	$(function() {
+		$('#import').on('change', function() {
+			$.AMUI.progress.start();
+			var options = {
+				url : '{:U("Student/upload")}',
+				type : 'post',
+				success : function(data) {
+					$.AMUI.progress.done();
+					alert(data);
+					window.location.reload();
+				},
+				error : function(data) {
+					$.AMUI.progress.done();
+					alert(data);
+				}
+			};
+
+			$('#importfrom').ajaxSubmit(options);
+
+		});
+	});
+</script>
+</body>
+
+</html>

@@ -1,0 +1,88 @@
+<include file="Public/head" />
+<include file="Public/nav" />
+
+
+<!-- 内容区域 -->
+<div class="tpl-content-wrapper">
+	<div class="row-content am-cf">
+		<div class="row">
+			<div class="am-u-sm-12 am-u-md-12 am-u-lg-12">
+				<div class="widget am-cf">
+					<div class="widget-head am-cf">
+						<div class="widget-title  am-cf">快捷菜单管理</div>
+					</div>
+					<div class="widget-body  am-fr">
+
+						<div class="am-u-sm-12 am-u-md-6 am-u-lg-6">
+							<div class="am-form-group">
+								<div class="am-btn-toolbar">
+
+									<div class="am-form-group am-form-file">
+										<a href="{:U("Menu/addmenu")}">
+											<button type="button" class="am-btn am-btn-danger am-btn-sm">
+												<i class="am-icon-cloud-upload"></i> 添加快捷菜单
+											</button>
+										</a>
+									</div>
+
+								</div>
+							</div>
+						</div>
+						 
+						<div class="am-u-sm-12">
+							<table width="100%"
+								class="am-table am-table-compact am-table-striped tpl-table-black "
+								id="example-r">
+								<thead>
+									<tr>
+										<th>菜单名称</th>
+										<th>菜单地址</th>
+										<th>菜单描述</th>
+										<th>操作类型</th>
+									</tr>
+								</thead>
+								<tbody>
+									<foreach name="list" item="vo">
+									<tr class="gradeX">
+										<td>{$vo.name}</td>
+										<td>{$vo.url}</td>
+										<td>{$vo.description}</td>
+										<td>
+											<div class="tpl-table-black-operation">
+												<a href="{:U('Menu/showmenu',array('id' => $vo['id']))}"> <i class="am-icon-pencil"></i>
+													编辑
+												</a> <a href="{:U('Menu/delmenu',array('id' => $vo['id']))}"  onclick="return confirm('确定删除')" 
+													class="tpl-table-black-operation-del"> <i
+													class="am-icon-trash"></i> 删除
+												</a>
+											</div>
+										</td>
+									</tr>
+									</foreach>
+
+
+									<!-- more data -->
+								</tbody>
+							</table>
+						</div>
+						<div class="am-u-lg-12 am-cf">
+							<div class="am-fr">
+								<div class="am-pagination tpl-pagination">{$page}</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+</div>
+<script src="__PUBLIC__/assets/js/amazeui.min.js"></script>
+<script src="__PUBLIC__/assets/js/amazeui.datatables.min.js"></script>
+<script src="__PUBLIC__/assets/js/dataTables.responsive.min.js"></script>
+<script src="__PUBLIC__/assets/js/app.js"></script>
+
+</body>
+
+</html>

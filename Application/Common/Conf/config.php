@@ -9,6 +9,6 @@ return array(
     'DB_PORT'               =>  '3306',          // 端口
     'DB_PREFIX'             =>  'e_',          // 数据库表前缀
     
-    'SHOW_PAGE_TRACE' =>true,
+    //'SHOW_PAGE_TRACE' =>true,
  
 );

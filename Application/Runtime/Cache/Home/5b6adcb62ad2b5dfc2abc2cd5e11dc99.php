@@ -57,22 +57,22 @@
 		</div>
 		-->
 		<div class="tpl-login" id="form-with-tooltip">
-			<div class="tpl-login-content" >
+			<div class="tpl-login-content">
 				<div class="tpl-login-logo"></div>
-				<form class="am-form tpl-form-line-form"
+				<form class="am-form tpl-form-line-form" method="post"
 					action="/examLibrary/index.php/Login/login" onsubmit="return check()">
 					<div class="am-form-group">
 						<input type="text" class="tpl-form-input" id="user-number"
-							name="sno" required
-							oninvalid="setCustomValidity('不输入学号就想走吗！不存在的！')"
-							oninput="setCustomValidity('')" placeholder="童鞋，你的学号是多少O(∩_∩)O">
+							name="sno" oninvalid="setCustomValidity('不输入学号就想走吗！不存在的！')"
+							oninput="setCustomValidity('')" placeholder="童鞋，你的学号是多少O(∩_∩)O"
+							required>
 					</div>
 
 					<div class="am-form-group">
 						<input type="text" class="tpl-form-input" id="user-name"
-							name="sname" required
-							oninvalid="setCustomValidity('不输入姓名就想走吗！不存在的！')"
-							oninput="setCustomValidity('')" placeholder="童鞋，久仰您的的大名(*^__^*) ">
+							name="sname" oninvalid="setCustomValidity('不输入姓名就想走吗！不存在的！')"
+							oninput="setCustomValidity('')" placeholder="童鞋，久仰您的的大名(*^__^*) "
+							required>
 					</div>
 					<!--  
 					<div class="am-form-group tpl-login-remember-me">
@@ -81,11 +81,17 @@
 
 					</div>
 					-->
+					<div class="am-form-group">
+						 <span style="color:red"><?php echo ($error); ?></span>
+					</div>
+					
 					<div class="am-form-group am-margin-top-lg">
 						<button type="submit"
 							class="am-btn am-btn-primary  am-btn-block tpl-btn-bg-color-success  tpl-login-btn"
-							style="margin-top: 36px">进入考试吧！加油！</button>
+							style="margin-top: 26px">进入考试吧！加油！</button>
 					</div>
+					
+					
 				</form>
 			</div>
 		</div>

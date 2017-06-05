@@ -1,7 +1,7 @@
 @charset "utf-8";
 body, html { background: #fafafa }
 #wrap { min-width: 250px; position: absolute }
-.content { position: relative; margin: 130px auto }
+.content { position: relative; margin:0px auto }
 .content .top { position: relative; margin: 30px auto 20px; width: 570px }
 .top_phone { position: relative; margin: 30px auto 20px; width: 554px; height: 105px; background: url(../img/sign_phone_10708ca.png); display: none }
 .top .sign { color: #333; font-size: 20px;  font-weight: 700; line-height: 30px; width: 340px }

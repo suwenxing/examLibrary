@@ -18,10 +18,11 @@
     <link rel="stylesheet" href="/examLibrary/Public/assets/css/amazeui.datatables.min.css" />
     <link rel="stylesheet" href="/examLibrary/Public/assets/css/app.css">
     <script src="/examLibrary/Public/assets/js/jquery.min.js"></script>
+	<script src="/examLibrary/Public/assets/js/jquery-form.js"></script>
 
 </head>
 
-<body data-type="index">
+<body data-type="widgets">
     <script src="/examLibrary/Public/assets/js/theme.js"></script>
     <div class="am-g tpl-g">
         <!-- 头部 -->
@@ -54,7 +55,7 @@
                         </li>
                         <!-- 退出 -->
                         <li class="am-text-sm">
-                            <a href="javascript:;">
+                            <a href="/examLibrary/admin.php/Login/logout">
                                 <span class="am-icon-sign-out"></span> 退出
                             </a>
                         </li>
@@ -85,56 +86,46 @@
 			<span class="user-panel-logged-in-text"> <i
 				class="am-icon-circle-o am-text-success tpl-user-panel-status-icon"></i>
 				管理员
-			</span>  
+			</span>
 		</div>
 	</div>
 
 	<!-- 菜单 -->
 	<ul class="sidebar-nav">
-		<li class="sidebar-nav-link"><a href="index.html" class="active">
-				<i class="am-icon-home sidebar-nav-link-logo"></i> 首页
+		<li class="sidebar-nav-link"><a href="<?php echo U('Index/index');?>"
+			class="active"> <i class="am-icon-home sidebar-nav-link-logo"></i>
+				首页
 		</a></li>
-		<li class="sidebar-nav-link"><a href="<?php echo U('Student/stulist');?>"> <i
-				class="am-icon-table sidebar-nav-link-logo"></i> 学生信息管理
+		<li class="sidebar-nav-link"><a href="<?php echo U('Student/stulist');?>">
+				<i class="am-icon-user sidebar-nav-link-logo"></i> 学生信息管理
 		</a></li>
-		<li class="sidebar-nav-link"><a href="calendar.html"> <i
-				class="am-icon-calendar sidebar-nav-link-logo"></i> 日历
-		</a></li>
-		<li class="sidebar-nav-link"><a href="form.html"> <i
-				class="am-icon-wpforms sidebar-nav-link-logo"></i> 表单
-
-		</a></li>
-		<li class="sidebar-nav-link"><a href="chart.html"> <i
-				class="am-icon-bar-chart sidebar-nav-link-logo"></i> 图表
-
-		</a></li>
-
-		<li class="sidebar-nav-heading">Page<span
-			class="sidebar-nav-heading-info"> 常用页面</span></li>
 		<li class="sidebar-nav-link"><a href="javascript:;"
 			class="sidebar-nav-sub-title"> <i
-				class="am-icon-table sidebar-nav-link-logo"></i> 数据列表 <span
+				class="am-icon-question sidebar-nav-link-logo"></i> 题目管理 <span
 				class="am-icon-chevron-down am-fr am-margin-right-sm sidebar-nav-sub-ico"></span>
 		</a>
 			<ul class="sidebar-nav sidebar-nav-sub">
-				<li class="sidebar-nav-link"><a href="table-list.html"> <span
-						class="am-icon-angle-right sidebar-nav-link-logo"></span> 文字列表
+				<li class="sidebar-nav-link"><a href="<?php echo U('Question/quelist');?>"> <span
+						class="am-icon-angle-right sidebar-nav-link-logo"></span> 题目类型管理
 				</a></li>
-
+<!--  
 				<li class="sidebar-nav-link"><a href="table-list-img.html">
 						<span class="am-icon-angle-right sidebar-nav-link-logo"></span>
-						图文列表
+						题目上传管理
 				</a></li>
+-->
 			</ul></li>
-		<li class="sidebar-nav-link"><a href="sign-up.html"> <i
-				class="am-icon-clone sidebar-nav-link-logo"></i> 注册 <span
-				class="am-badge am-badge-secondary sidebar-nav-link-logo-ico am-round am-fr am-margin-right-sm">6</span>
+
+		<li class="sidebar-nav-link"><a href="calendar.html"> <i
+				class="am-icon-calendar sidebar-nav-link-logo"></i> 分数管理
 		</a></li>
-		<li class="sidebar-nav-link"><a href="login.html"> <i
-				class="am-icon-key sidebar-nav-link-logo"></i> 登录
+		
+		<li class="sidebar-nav-link"><a href="<?php echo U('College/collegelist');?>"> <i
+				class="am-icon-university sidebar-nav-link-logo"></i> 学院信息管理
 		</a></li>
-		<li class="sidebar-nav-link"><a href="404.html"> <i
-				class="am-icon-tv sidebar-nav-link-logo"></i> 404错误
+		
+		<li class="sidebar-nav-link"><a href="<?php echo U('System/index');?>"> <i
+				class="am-icon-gear sidebar-nav-link-logo"></i> 系统设置管理
 		</a></li>
 
 	</ul>
@@ -148,11 +139,10 @@
 		<div class="row">
 			<div class="am-u-sm-12 am-u-md-12 am-u-lg-9">
 				<div class="page-header-heading">
-					<span class="am-icon-home page-header-heading-icon"></span> 部件首页 <small>Amaze
-						UI</small>
+					<span class="am-icon-home page-header-heading-icon"></span> 管理系统首页 <small>Qust
+						Library</small>
 				</div>
-				<p class="page-header-description">Amaze UI 含近 20 个 CSS 组件、20 余
-					JS 组件，更有多个包含不同主题的 Web 组件。</p>
+				<p class="page-header-description">欢迎使用青岛科技大学图书馆考试系统</p>
 			</div>
 			 
 		</div>

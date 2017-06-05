@@ -60,7 +60,7 @@
 					-->
 					<div class="am-form-group am-margin-top-lg">
 						<button type="submit"
-							class="am-btn am-btn-primary  am-btn-block tpl-btn-bg-color-success  tpl-login-btn">提交</button>
+							class="am-btn am-btn-primary  am-btn-block tpl-btn-bg-color-success  tpl-login-btn">登陆</button>
 					</div>
 				</form>
 			</div>

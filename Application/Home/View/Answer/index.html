@@ -3,289 +3,267 @@
 <meta charset="UTF-8">
 <title>答题页面</title>
 <head>
+<link rel="icon" type="image/png" href="__PUBLIC__/assets/i/favicon.png">
+<link rel="apple-touch-icon-precomposed"
+	href="__PUBLIC__/assets/i/app-icon72x72@2x.png">
 <script src="__PUBLIC__/assets/js/jquery.min.js"></script>
 <script src="__PUBLIC__/assets/js/theme.js"></script>
 <script src="__PUBLIC__/assets/js/loaders.css.js"></script>
 <link rel="stylesheet" href="__PUBLIC__/assets/css/amazeui.min.css" />
 <link rel="stylesheet" href="__PUBLIC__/assets/css/loaders.min.css" />
-<link rel="stylesheet" href="__PUBLIC__/assets/css/amazeui.datatables.min.css" />
+<link rel="stylesheet"
+	href="__PUBLIC__/assets/css/amazeui.datatables.min.css" />
 <link rel="stylesheet" href="__PUBLIC__/assets/css/app.css">
-
+<script src="__PUBLIC__/assets/js/jquery.cookie.js"></script>
+<script src="__PUBLIC__/assets/js/session.js"></script>
 <script type="text/javascript">
-$(window).load(function() {
-	 $("#OnLoading").hide();
-	 $("#LoadingSuccess").show();
-	
-	
-});
- 
-</script> 
+	$(window).load(function() {
+		$("#OnLoading").hide();
+		$("#LoadingSuccess").show();
+
+	});
+</script>
+<script language="javascript">
+	//防止页面后退
+	history.pushState(null, null, document.URL);
+	window.addEventListener('popstate', function() {
+		history.pushState(null, null, document.URL);
+	});
+</script>
+<script type="text/javascript" charset="utf-8">
+	$(function() {
+		//var exp = parseFloat({$etime}/60/24);
+		if ($.session.get('sec') && $.session.get('min')) {
+			$("#min").html($.session.get('min'));
+			$("#sec").html($.session.get('sec'))
+		}
+
+		var min = $("#min").html();
+		var sec = $("#sec").html();
+		var mytime = null;
+		min = parseInt(min);
+		sec = parseInt(sec);
+		//调用函数，进行倒计时
+		mytime = setInterval(fun, 1000);
+
+		function fun() {
+			sec--;
+			if (sec < 0) {
+				min--;
+				sec = 59;
+				if (min < 0) {
+					alert("答题时间到,系统自动提交!");
+					//alert($.session.get('question'));
+					clearInterval(mytime);
+					mytime = null;
+					var temp = new Array();
+					//$("#form").submit();
+					//-------------------------------------------------
+					$("div[id='option']").each(function(j, item) {
+						var obj = $(this).find('input');
+						var s = '';
+						for ( var i = 0; i < obj.size(); i++) {
+							if (obj[i].checked) {
+								s += obj[i].value; //如果选中，将value添加到变量s中 
+							}
+						}
+
+						if (s == '') {
+							flag = 1;
+							s += 'x';
+						}
+
+						temp[j] = s;
+
+					});//each结束
+					//alert(temp);
+					var aj = $.ajax({
+						url : "{:U('Score/grade')}",// 跳转到 action  
+						async : false,
+						data : {
+							flag : 2,
+							questions:temp
+						},
+						type : 'post',
+						success : function(data) {
+							window.location.href = '{:U("Score/index")}';
+						},
+						error : function(data) {
+							alert("服务器出小差了，请联系管理员。。");
+						}
+					});
+
+					//--------------------------------------------------
+					return;
+				}
+				;
+			}
+			;
+			//min=(min<10?"0"+min:min);
+			sec = (sec < 10) ? "0" + sec : sec;
+			//$.cookie('sec', sec, { expires: exp });
+			//$.cookie('min', min, { expires: exp });
+			$.session.set('sec', sec);
+			$.session.set('min', min);
+			$("#min").html(min);
+			$("#sec").html(sec);
+		}
+
+	});
+</script>
 </head>
 <body class="body-color">
- <div class="loader-inner ball-pulse ball-remark" id="OnLoading" >
-   <div></div>
-   <div></div>
-   <div></div>
- </div>
- <div id="LoadingSuccess" class=" am-container am-containers" style="display:none">
-  
-   <h1 class="am-header-title header-remark">
-             <a href="#left-link" >   青岛科技大学图书馆入馆测试 </a>
-    </h1> 
-  
-    
-<div class="am-panel am-panel-default panel-remark" >
-  <div class="am-panel-hd" id="question1">1.最喜欢的水果 </div>
-<div class="am-panel-bd" id="option1">
- <div class="am-radio-inline">
-    <input type="radio" name="radio1" value="apple" data-am-ucheck>A.苹果
-  </div>
-  <br />
-  <div class="am-radio-inline">
-    <input type="radio" name="radio1" value="grape" data-am-ucheck>B.葡萄
-  </div>
-  <br />
-  <div class="am-radio-inline">
-    <input type="radio" name="radio1" value="orange" data-am-ucheck>C.橙子
-  </div>
-  <br />
-   <div class="am-radio-inline">
-    <input type="radio" name="radio1" value="cherry" data-am-ucheck>D.樱桃
-  </div>
-</div>
-</div>
+	<div class="header">
+		<div id="dada" style="width: 100%">
+			<span><font id="title">☻__<{$title}>__☻</font></span>
+		</div>
+		<div id="time" style="width: 100%">
+			<span> <font class="time1">本次测试时间剩余</font> <font class="time2"><b
+					id="min">{$etime}</b></font> <font class="time1">分钟 </font> <font
+				class="time2"><b id="sec"> 00 </b></font> <font class="time1">秒,{$etime}分钟后自动提交</font>
+			</span>
+		</div>
+	</div>
+	<div class="loader-inner ball-pulse ball-remark" id="OnLoading">
+		<div></div>
+		<div></div>
+		<div></div>
+	</div>
+	<div id="LoadingSuccess" class=" am-container am-containers"
+		style="display: none">
+
+		<h1 class="am-header-title header-remark">
+			<a href="#left-link"> </a>
+		</h1>
+
+		<foreach name="list" item="vo" key="k">
+		<div class="am-panel am-panel-default panel-remark">
+			<div class="am-panel-hd" id="question">
+				<if condition="$vo['type'] eq 2">
+				{$k+20*($p-1)+1}、{$vo['content']}(多选题) <else />
+				{$k+20*($p-1)+1}、{$vo['content']} </if>
+			</div>
+			<div class="am-panel-bd" id="option">
+				<div class="am-radio-inline">
+					<input type="checkbox" name="question[{$k}]" value="A"/>A.{$vo['aa']}
+				</div>
+				<br />
+				<div class="am-radio-inline">
+					<input type="checkbox" name="question[{$k}]" value="B" />B.{$vo['ab']}
+				</div>
+				<br />
+				<div class="am-radio-inline">
+					<if condition="$vo['ac'] neq null"> <input type="checkbox"
+						name="question[{$k}]" value="C" />C.{$vo['ac']} </if>
+				</div>
+				<br />
+				<div class="am-radio-inline">
+					<if condition="$vo['ad'] neq null"> <input type="checkbox"
+						name="question[{$k}]" value="D" />D.{$vo['ad']} </if>
+				</div>
+			</div>
+		</div>
+		</foreach>
 
 
-<div class="am-panel am-panel-default panel-remark" >
-  <div class="am-panel-hd" id="question1">2.最喜欢的水果 </div>
-<div class="am-panel-bd" id="option1">
- <div class="am-radio-inline">
-    <input type="radio" name="radio2" value="apple" data-am-ucheck>A.苹果
-  </div>
-  <br />
-  <div class="am-radio-inline">
-    <input type="radio" name="radio2" value="grape" data-am-ucheck>B.葡萄
-  </div>
-  <br />
-  <div class="am-radio-inline">
-    <input type="radio" name="radio2" value="orange" data-am-ucheck>C.橙子
-  </div>
-  <br />
-   <div class="am-radio-inline">
-    <input type="radio" name="radio2" value="cherry" data-am-ucheck>D.樱桃
-  </div>
-</div>
-</div>
+		<div class="am-u-lg-12 am-cf">
+			<div class="am-fr">
+				<!-- <div class="am-pagination tpl-pagination">{$page}</div> -->
+				<ul class="am-pagination">{$page}
+				</ul>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">
+		var question = new Array();
+		var flag = 0;
 
+		$('.am-pagination a').bind('click', function() {
+			$("div[id='option']").each(function(j, item) {
+				var obj = $(this).find('input');
+				var s = '';
+				for ( var i = 0; i < obj.size(); i++) {
+					if (obj[i].checked) {
+						s += obj[i].value; //如果选中，将value添加到变量s中 
+					}
+				}
 
+				if (s == '') {
+					flag = 1;
+					s += 'x';
+				}
 
-<div class="am-panel am-panel-default panel-remark" >
-  <div class="am-panel-hd" id="question1">3.最喜欢的水果 </div>
-<div class="am-panel-bd" id="option1">
- <div class="am-radio-inline">
-    <input type="radio" name="radio3" value="apple" data-am-ucheck>A.苹果
-  </div>
-  <br />
-  <div class="am-radio-inline">
-    <input type="radio" name="radio3" value="grape" data-am-ucheck>B.葡萄
-  </div>
-  <br />
-  <div class="am-radio-inline">
-    <input type="radio" name="radio3" value="orange" data-am-ucheck>C.橙子
-  </div>
-  <br />
-   <div class="am-radio-inline">
-    <input type="radio" name="radio3" value="cherry" data-am-ucheck>D.樱桃
-  </div>
-</div>
-</div>
+				question[j] = s;
 
-<div class="am-panel am-panel-default panel-remark" >
-  <div class="am-panel-hd" id="question1">4.最喜欢的水果 </div>
-<div class="am-panel-bd" id="option1">
- <div class="am-radio-inline">
-    <input type="radio" name="radio4" value="apple" data-am-ucheck>A.苹果
-  </div>
-  <br />
-  <div class="am-radio-inline">
-    <input type="radio" name="radio4" value="grape" data-am-ucheck>B.葡萄
-  </div>
-  <br />
-  <div class="am-radio-inline">
-    <input type="radio" name="radio4" value="orange" data-am-ucheck>C.橙子
-  </div>
-  <br />
-   <div class="am-radio-inline">
-    <input type="radio" name="radio4" value="cherry" data-am-ucheck>D.樱桃
-  </div>
-</div>
-</div>
+			});//each结束
 
+			//如果
+			if (flag > 0) {
+				//还有没大的题目
+				alert("别着急，把本页的题目全都做完嘛。。");
+				flag = 0;
+				return false;
+			} else {
+				var aj = $.ajax({
+					url : "{:U('Score/grade')}",// 跳转到 action  
+					async : false,
+					data : {
+						flag : 0,
+						questions : question
+					},
+					type : 'post',
+					success : function(data) {
+					},
+					error : function(data) {
+						alert("error");
+					}
+				});
+			}
+		});
+		//-------------------------------------------------------------------------------
+		$('#lastbtn').bind('click', function() {
+			$("div[id='option']").each(function(j, item) {
+				var obj = $(this).find('input');
+				var s = '';
+				for ( var i = 0; i < obj.size(); i++) {
+					if (obj[i].checked) {
+						s += obj[i].value; //如果选中，将value添加到变量s中 
+					}
+				}
 
+				if (s == '') {
+					flag = 1;
+					s += 'x';
+				}
 
-<div class="am-panel am-panel-default panel-remark" >
-  <div class="am-panel-hd" id="question1">5.最喜欢的水果 </div>
-<div class="am-panel-bd" id="option1">
- <div class="am-radio-inline">
-    <input type="radio" name="radio5" value="apple" data-am-ucheck>A.苹果
-  </div>
-  <br />
-  <div class="am-radio-inline">
-    <input type="radio" name="radio5" value="grape" data-am-ucheck>B.葡萄
-  </div>
-  <br />
-  <div class="am-radio-inline">
-    <input type="radio" name="radio5" value="orange" data-am-ucheck>C.橙子
-  </div>
-  <br />
-   <div class="am-radio-inline">
-    <input type="radio" name="radio5" value="cherry" data-am-ucheck>D.樱桃
-  </div>
-</div>
-</div>
+				question[j] = s;
 
-<div class="am-panel am-panel-default panel-remark" >
-  <div class="am-panel-hd" id="question1">6.最喜欢的水果 </div>
-<div class="am-panel-bd" id="option1">
- <div class="am-radio-inline">
-    <input type="radio" name="radio6" value="apple" data-am-ucheck>A.苹果
-  </div>
-  <br />
-  <div class="am-radio-inline">
-    <input type="radio" name="radio6" value="grape" data-am-ucheck>B.葡萄
-  </div>
-  <br />
-  <div class="am-radio-inline">
-    <input type="radio" name="radio6" value="orange" data-am-ucheck>C.橙子
-  </div>
-  <br />
-   <div class="am-radio-inline">
-    <input type="radio" name="radio6" value="cherry" data-am-ucheck>D.樱桃
-  </div>
-</div>
-</div>
+			});//each结束
 
-<div class="am-panel am-panel-default panel-remark" >
-  <div class="am-panel-hd" id="question1">7.最喜欢的水果 </div>
-<div class="am-panel-bd" id="option1">
- <div class="am-radio-inline">
-    <input type="radio" name="radio7" value="apple" data-am-ucheck>A.苹果
-  </div>
-  <br />
-  <div class="am-radio-inline">
-    <input type="radio" name="radio7" value="grape" data-am-ucheck>B.葡萄
-  </div>
-  <br />
-  <div class="am-radio-inline">
-    <input type="radio" name="radio7" value="orange" data-am-ucheck>C.橙子
-  </div>
-  <br />
-   <div class="am-radio-inline">
-    <input type="radio" name="radio7" value="cherry" data-am-ucheck>D.樱桃
-  </div>
-</div>
-</div>
-
-<div class="am-panel am-panel-default panel-remark" >
-  <div class="am-panel-hd" id="question1">8.最喜欢的水果 </div>
-<div class="am-panel-bd" id="option1">
- <div class="am-radio-inline">
-    <input type="radio" name="radio8" value="apple" data-am-ucheck>A.苹果
-  </div>
-  <br />
-  <div class="am-radio-inline">
-    <input type="radio" name="radio8" value="grape" data-am-ucheck>B.葡萄
-  </div>
-  <br />
-  <div class="am-radio-inline">
-    <input type="radio" name="radio8" value="orange" data-am-ucheck>C.橙子
-  </div>
-  <br />
-   <div class="am-radio-inline">
-    <input type="radio" name="radio8" value="cherry" data-am-ucheck>D.樱桃
-  </div>
-</div>
-</div>
-
-<div class="am-panel am-panel-default panel-remark" >
-  <div class="am-panel-hd" id="question1">9.最喜欢的水果 </div>
-<div class="am-panel-bd" id="option1">
- <div class="am-radio-inline">
-    <input type="radio" name="radio9" value="apple" data-am-ucheck>A.苹果
-  </div>
-  <br />
-  <div class="am-radio-inline">
-    <input type="radio" name="radio9" value="grape" data-am-ucheck>B.葡萄
-  </div>
-  <br />
-  <div class="am-radio-inline">
-    <input type="radio" name="radio9" value="orange" data-am-ucheck>C.橙子
-  </div>
-  <br />
-   <div class="am-radio-inline">
-    <input type="radio" name="radio9" value="cherry" data-am-ucheck>D.樱桃
-  </div>
-</div>
-</div>
-
-<div class="am-panel am-panel-default panel-remark" >
-  <div class="am-panel-hd" id="question1">10.最喜欢的水果 </div>
-<div class="am-panel-bd" id="option1">
- <div class="am-radio-inline">
-    <input type="radio" name="radio10" value="apple" data-am-ucheck>A.苹果
-  </div>
-  <br />
-  <div class="am-radio-inline">
-    <input type="radio" name="radio10" value="grape" data-am-ucheck>B.葡萄
-  </div>
-  <br />
-  <div class="am-radio-inline">
-    <input type="radio" name="radio10" value="orange" data-am-ucheck>C.橙子
-  </div>
-  <br />
-   <div class="am-radio-inline">
-    <input type="radio" name="radio10" value="cherry" data-am-ucheck>D.樱桃
-  </div>
-</div>
-</div>
-
-
-
- <ul data-am-widget="pagination" class="am-pagination am-pagination-default pagination-remark">
-
-      <li class="am-pagination-first ">
-        <a href="#" class="">第一页</a>
-      </li>
-
-      <li class="am-pagination-prev ">
-        <a href="#" class="">上一页</a>
-      </li>
-
-
-      <li class="am-active">
-        <a href="#" class="am-active">1</a>
-      </li>
-      <li class="">
-        <a href="#" class="">2</a>
-      </li>
-      <li class="">
-         <a href="#" class="">3</a>
-      </li>
-      <li class="">
-         <a href="#" class="">4</a>
-      </li>
-      <li class="">
-         <a href="#" class="">5</a>
-      </li>
-
-      <li class="am-pagination-next ">
-        <a href="#" class="">下一页</a>
-      </li>
-
-      <li class="am-pagination-last ">
-        <a href="#" class="">最末页</a>
-      </li>
-  </ul>
- </div>
+			//如果
+			if (flag > 0) {
+				//还有没大的题目
+				alert("别着急，把本页的题目全都做完嘛。。");
+				flag = 0;
+				return false;
+			} else {
+				var aj = $.ajax({
+					url : "{:U('Score/grade')}",// 跳转到 action  
+					async : false,
+					data : {
+						flag : 1,
+						questions : question
+					},
+					type : 'post',
+					success : function(data) {
+						window.location.href = '{:U("Score/index")}';
+					},
+					error : function(data) {
+						alert("服务器出小差了，请联系管理员。。");
+					}
+				});
+			}
+		});
+	</script>
 </body>
 </html>

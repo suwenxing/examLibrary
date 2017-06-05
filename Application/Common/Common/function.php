@@ -6,8 +6,10 @@ function import_exl($file_name) {
 	// $file_name= './Upload/excel/123456.xls';
 	import ( "Org.Util.PHPExcel" ); // 这里不能漏掉
 	import ( "Org.Util.PHPExcel.IOFactory" );
+	
 	$objReader = \PHPExcel_IOFactory::createReader ( 'Excel5' );
 	$objPHPExcel = $objReader->load ( $file_name, $encode = 'utf-8' );
+	
 	$sheet = $objPHPExcel->getSheet ( 0 );
 	$highestRow = $sheet->getHighestRow (); // 取得总行数
 	$highestColumn = $sheet->getHighestColumn (); // 取得总列数
@@ -26,5 +28,11 @@ function import_exl($file_name) {
 		}
 	}
 	return $data;
+}
+// 截取指定长度并用省略号代替
+function subtext($text, $length) {
+	if (mb_strlen ( $text, 'utf8' ) > $length)
+		return mb_substr ( $text, 0, $length, 'utf8' ) . '...';
+	return $text;
 }
  

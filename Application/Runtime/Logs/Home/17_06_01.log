@@ -1,0 +1,629 @@
+[ 2017-06-01T21:53:34+08:00 ] ::1 /examLibrary/index.php/Login/login?sno=1308020117&sname=%E8%8B%8F%E6%96%87%E6%98%9F
+ERR: 1146:Table 'exam.e_user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `e_user`
+
+[ 2017-06-01T21:54:50+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000782s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001388s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0139s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '苏文星' AND `usernumber` = '1308020118' AND `loginnum` = 1  [ RunTime:0.0005s ]
+
+[ 2017-06-01T21:54:52+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000639s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001069s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0115s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '苏文星' AND `usernumber` = '1308020118' AND `loginnum` = 1  [ RunTime:0.0006s ]
+
+[ 2017-06-01T21:54:52+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001012s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001931s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '苏文星' AND `usernumber` = '1308020118' AND `loginnum` = 1  [ RunTime:0.0004s ]
+
+[ 2017-06-01T21:54:53+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000659s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001083s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0115s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '苏文星' AND `usernumber` = '1308020118' AND `loginnum` = 1  [ RunTime:0.0004s ]
+
+[ 2017-06-01T21:54:53+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000848s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001519s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0136s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '苏文星' AND `usernumber` = '1308020118' AND `loginnum` = 1  [ RunTime:0.0005s ]
+
+[ 2017-06-01T21:55:31+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000944s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001703s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0113s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '苏文星' AND `usernumber` = '1308020118' AND `loginnum` = 1  [ RunTime:0.0005s ]
+
+[ 2017-06-01T21:55:32+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000816s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001316s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0088s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '苏文星' AND `usernumber` = '1308020118' AND `loginnum` = 1  [ RunTime:0.0004s ]
+
+[ 2017-06-01T21:55:47+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001153s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001755s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0117s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '苏文星' AND `usernumber` = '1308020118' AND `loginnum` = 1  [ RunTime:0.0006s ]
+
+[ 2017-06-01T21:55:48+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000963s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001527s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0094s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '苏文星' AND `usernumber` = '1308020118' AND `loginnum` = 1  [ RunTime:0.0005s ]
+
+[ 2017-06-01T21:55:48+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001222s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001817s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '苏文星' AND `usernumber` = '1308020118' AND `loginnum` = 1  [ RunTime:0.0004s ]
+
+[ 2017-06-01T21:55:49+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000617s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000967s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0112s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '苏文星' AND `usernumber` = '1308020118' AND `loginnum` = 1  [ RunTime:0.0005s ]
+
+[ 2017-06-01T21:57:21+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001968s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0115s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '苏文星' AND `usernumber` = '1308020118' AND `loginnum` = 1  [ RunTime:0.0008s ]
+
+[ 2017-06-01T21:58:03+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000609s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000996s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0122s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '苏文星' AND `usernumber` = '1308020118' AND `loginnum` = 1  [ RunTime:0.0009s ]
+
+[ 2017-06-01T21:58:05+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001597s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0122s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '苏文星' AND `usernumber` = '1308020118' AND `loginnum` = 1  [ RunTime:0.0004s ]
+
+[ 2017-06-01T21:58:06+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001784s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0105s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '苏文星' AND `usernumber` = '1308020118' AND `loginnum` = 1  [ RunTime:0.0005s ]
+
+[ 2017-06-01T21:58:06+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000747s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001165s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0104s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '苏文星' AND `usernumber` = '1308020118' AND `loginnum` = 1  [ RunTime:0.0007s ]
+
+[ 2017-06-01T21:58:06+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001092s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0137s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '苏文星' AND `usernumber` = '1308020118' AND `loginnum` = 1  [ RunTime:0.0005s ]
+
+[ 2017-06-01T21:58:56+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000893s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001681s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '苏文星' AND `usernumber` = '1308020118' AND `loginnum` = 1  [ RunTime:0.0004s ]
+
+[ 2017-06-01T21:58:57+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000865s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001403s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0117s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '苏文星' AND `usernumber` = '1308020118' AND `loginnum` = 1  [ RunTime:0.0003s ]
+
+[ 2017-06-01T21:59:02+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000777s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001279s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0121s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '' AND `usernumber` = '' AND `loginnum` = 1  [ RunTime:0.0006s ]
+
+[ 2017-06-01T21:59:02+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000692s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001169s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0115s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '' AND `usernumber` = '' AND `loginnum` = 1  [ RunTime:0.0005s ]
+
+[ 2017-06-01T21:59:02+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001051s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001688s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0119s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '' AND `usernumber` = '' AND `loginnum` = 1  [ RunTime:0.0003s ]
+
+[ 2017-06-01T21:59:03+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000697s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001143s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0131s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '' AND `usernumber` = '' AND `loginnum` = 1  [ RunTime:0.0006s ]
+
+[ 2017-06-01T21:59:03+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000691s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001074s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0123s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '' AND `usernumber` = '' AND `loginnum` = 1  [ RunTime:0.0007s ]
+
+[ 2017-06-01T21:59:05+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000848s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001451s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0145s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '' AND `usernumber` = '' AND `loginnum` = 1  [ RunTime:0.0005s ]
+
+[ 2017-06-01T21:59:06+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000695s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001400s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0136s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '' AND `usernumber` = '' AND `loginnum` = 1  [ RunTime:0.0006s ]
+
+[ 2017-06-01T21:59:06+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000858s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001562s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '' AND `usernumber` = '' AND `loginnum` = 1  [ RunTime:0.0005s ]
+
+[ 2017-06-01T21:59:13+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000710s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001174s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0108s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '' AND `usernumber` = '1312090960' AND `loginnum` = 1  [ RunTime:0.0004s ]
+
+[ 2017-06-01T21:59:13+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002117s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0106s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '' AND `usernumber` = '1312090960' AND `loginnum` = 1  [ RunTime:0.0006s ]
+
+[ 2017-06-01T21:59:13+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000597s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001009s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0116s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '' AND `usernumber` = '1312090960' AND `loginnum` = 1  [ RunTime:0.0003s ]
+
+[ 2017-06-01T21:59:13+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000695s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001186s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0107s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '' AND `usernumber` = '1312090960' AND `loginnum` = 1  [ RunTime:0.0004s ]
+
+[ 2017-06-01T21:59:16+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000595s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000978s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0119s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '1312090960' AND `usernumber` = '1312090960' AND `loginnum` = 1  [ RunTime:0.0004s ]
+
+[ 2017-06-01T21:59:16+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000732s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001453s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0124s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '1312090960' AND `usernumber` = '1312090960' AND `loginnum` = 1  [ RunTime:0.0004s ]
+
+[ 2017-06-01T21:59:17+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000755s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001387s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0082s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '1312090960' AND `usernumber` = '1312090960' AND `loginnum` = 1  [ RunTime:0.0007s ]
+
+[ 2017-06-01T21:59:17+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000709s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001197s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0103s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '1312090960' AND `usernumber` = '1312090960' AND `loginnum` = 1  [ RunTime:0.0004s ]
+
+[ 2017-06-01T21:59:17+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001692s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '1312090960' AND `usernumber` = '1312090960' AND `loginnum` = 1  [ RunTime:0.0010s ]
+
+[ 2017-06-01T21:59:35+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000816s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001463s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0123s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '1312090960' AND `usernumber` = '1312090960' AND `loginnum` = 1  [ RunTime:0.0004s ]
+
+[ 2017-06-01T21:59:35+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001004s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '1312090960' AND `usernumber` = '1312090960' AND `loginnum` = 1  [ RunTime:0.0004s ]
+
+[ 2017-06-01T21:59:36+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000579s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000940s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0117s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '1312090960' AND `usernumber` = '1312090960' AND `loginnum` = 1  [ RunTime:0.0004s ]
+
+[ 2017-06-01T21:59:49+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001130s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001914s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0111s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '' AND `usernumber` = '' AND `loginnum` = 1  [ RunTime:0.0008s ]
+
+[ 2017-06-01T21:59:49+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000801s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001343s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0122s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '' AND `usernumber` = '' AND `loginnum` = 1  [ RunTime:0.0003s ]
+
+[ 2017-06-01T21:59:51+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001680s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0125s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '' AND `usernumber` = '' AND `loginnum` = 1  [ RunTime:0.0004s ]
+
+[ 2017-06-01T21:59:51+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000883s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001338s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0104s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '' AND `usernumber` = '' AND `loginnum` = 1  [ RunTime:0.0004s ]
+
+[ 2017-06-01T21:59:54+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000781s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001332s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0135s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '' AND `usernumber` = '1' AND `loginnum` = 1  [ RunTime:0.0005s ]
+
+[ 2017-06-01T21:59:55+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000709s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001220s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0112s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '' AND `usernumber` = '1' AND `loginnum` = 1  [ RunTime:0.0004s ]
+
+[ 2017-06-01T21:59:55+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000795s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001306s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0309s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '' AND `usernumber` = '1' AND `loginnum` = 1  [ RunTime:0.0005s ]
+
+[ 2017-06-01T21:59:56+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000787s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001260s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0124s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '1' AND `usernumber` = '1' AND `loginnum` = 1  [ RunTime:0.0006s ]
+
+[ 2017-06-01T21:59:56+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001452s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0109s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '1' AND `usernumber` = '1' AND `loginnum` = 1  [ RunTime:0.0004s ]
+
+[ 2017-06-01T21:59:56+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000699s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001193s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0138s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '1' AND `usernumber` = '1' AND `loginnum` = 1  [ RunTime:0.0007s ]
+
+[ 2017-06-01T22:54:38+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000746s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001149s ]
+NOTIC: [8] Undefined index: username D:\wamp5_4\www\examLibrary\Application\Home\Controller\LoginController.class.php 第 12 行.
+NOTIC: [8] Undefined index: usernumber D:\wamp5_4\www\examLibrary\Application\Home\Controller\LoginController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0145s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = null AND `usernumber` = null AND `loginnum` = 1  [ RunTime:0.0008s ]
+
+[ 2017-06-01T22:54:39+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000619s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000987s ]
+NOTIC: [8] Undefined index: username D:\wamp5_4\www\examLibrary\Application\Home\Controller\LoginController.class.php 第 12 行.
+NOTIC: [8] Undefined index: usernumber D:\wamp5_4\www\examLibrary\Application\Home\Controller\LoginController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0109s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = null AND `usernumber` = null AND `loginnum` = 1  [ RunTime:0.0005s ]
+
+[ 2017-06-01T22:54:39+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001302s ]
+NOTIC: [8] Undefined index: username D:\wamp5_4\www\examLibrary\Application\Home\Controller\LoginController.class.php 第 12 行.
+NOTIC: [8] Undefined index: usernumber D:\wamp5_4\www\examLibrary\Application\Home\Controller\LoginController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = null AND `usernumber` = null AND `loginnum` = 1  [ RunTime:0.0006s ]
+
+[ 2017-06-01T22:54:40+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000757s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001322s ]
+NOTIC: [8] Undefined index: username D:\wamp5_4\www\examLibrary\Application\Home\Controller\LoginController.class.php 第 12 行.
+NOTIC: [8] Undefined index: usernumber D:\wamp5_4\www\examLibrary\Application\Home\Controller\LoginController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0133s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = null AND `usernumber` = null AND `loginnum` = 1  [ RunTime:0.0004s ]
+
+[ 2017-06-01T22:54:40+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000757s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001128s ]
+NOTIC: [8] Undefined index: username D:\wamp5_4\www\examLibrary\Application\Home\Controller\LoginController.class.php 第 12 行.
+NOTIC: [8] Undefined index: usernumber D:\wamp5_4\www\examLibrary\Application\Home\Controller\LoginController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0114s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = null AND `usernumber` = null AND `loginnum` = 1  [ RunTime:0.0006s ]
+
+[ 2017-06-01T22:54:40+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000653s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001047s ]
+NOTIC: [8] Undefined index: username D:\wamp5_4\www\examLibrary\Application\Home\Controller\LoginController.class.php 第 12 行.
+NOTIC: [8] Undefined index: usernumber D:\wamp5_4\www\examLibrary\Application\Home\Controller\LoginController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0094s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = null AND `usernumber` = null AND `loginnum` = 1  [ RunTime:0.0005s ]
+
+[ 2017-06-01T22:54:40+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001789s ]
+NOTIC: [8] Undefined index: username D:\wamp5_4\www\examLibrary\Application\Home\Controller\LoginController.class.php 第 12 行.
+NOTIC: [8] Undefined index: usernumber D:\wamp5_4\www\examLibrary\Application\Home\Controller\LoginController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0122s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = null AND `usernumber` = null AND `loginnum` = 1  [ RunTime:0.0005s ]
+
+[ 2017-06-01T22:54:40+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001003s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001697s ]
+NOTIC: [8] Undefined index: username D:\wamp5_4\www\examLibrary\Application\Home\Controller\LoginController.class.php 第 12 行.
+NOTIC: [8] Undefined index: usernumber D:\wamp5_4\www\examLibrary\Application\Home\Controller\LoginController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0138s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = null AND `usernumber` = null AND `loginnum` = 1  [ RunTime:0.0006s ]
+
+[ 2017-06-01T22:54:41+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000889s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001326s ]
+NOTIC: [8] Undefined index: username D:\wamp5_4\www\examLibrary\Application\Home\Controller\LoginController.class.php 第 12 行.
+NOTIC: [8] Undefined index: usernumber D:\wamp5_4\www\examLibrary\Application\Home\Controller\LoginController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0149s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = null AND `usernumber` = null AND `loginnum` = 1  [ RunTime:0.0006s ]
+
+[ 2017-06-01T22:54:59+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000845s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001563s ]
+NOTIC: [8] Undefined index: username D:\wamp5_4\www\examLibrary\Application\Home\Controller\LoginController.class.php 第 12 行.
+NOTIC: [8] Undefined index: usernumber D:\wamp5_4\www\examLibrary\Application\Home\Controller\LoginController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0107s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = null AND `usernumber` = null AND `loginnum` = 1  [ RunTime:0.0004s ]
+
+[ 2017-06-01T22:54:59+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000853s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001275s ]
+NOTIC: [8] Undefined index: username D:\wamp5_4\www\examLibrary\Application\Home\Controller\LoginController.class.php 第 12 行.
+NOTIC: [8] Undefined index: usernumber D:\wamp5_4\www\examLibrary\Application\Home\Controller\LoginController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0117s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = null AND `usernumber` = null AND `loginnum` = 1  [ RunTime:0.0003s ]
+
+[ 2017-06-01T22:54:59+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001080s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001668s ]
+NOTIC: [8] Undefined index: username D:\wamp5_4\www\examLibrary\Application\Home\Controller\LoginController.class.php 第 12 行.
+NOTIC: [8] Undefined index: usernumber D:\wamp5_4\www\examLibrary\Application\Home\Controller\LoginController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0146s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = null AND `usernumber` = null AND `loginnum` = 1  [ RunTime:0.0003s ]
+
+[ 2017-06-01T22:55:00+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000839s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001392s ]
+NOTIC: [8] Undefined index: username D:\wamp5_4\www\examLibrary\Application\Home\Controller\LoginController.class.php 第 12 行.
+NOTIC: [8] Undefined index: usernumber D:\wamp5_4\www\examLibrary\Application\Home\Controller\LoginController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0106s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = null AND `usernumber` = null AND `loginnum` = 1  [ RunTime:0.0005s ]
+
+[ 2017-06-01T22:55:03+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000684s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001110s ]
+NOTIC: [8] Undefined index: username D:\wamp5_4\www\examLibrary\Application\Home\Controller\LoginController.class.php 第 12 行.
+NOTIC: [8] Undefined index: usernumber D:\wamp5_4\www\examLibrary\Application\Home\Controller\LoginController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0118s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = null AND `usernumber` = null AND `loginnum` = 1  [ RunTime:0.0004s ]
+
+[ 2017-06-01T22:55:03+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000869s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001485s ]
+NOTIC: [8] Undefined index: username D:\wamp5_4\www\examLibrary\Application\Home\Controller\LoginController.class.php 第 12 行.
+NOTIC: [8] Undefined index: usernumber D:\wamp5_4\www\examLibrary\Application\Home\Controller\LoginController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0126s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = null AND `usernumber` = null AND `loginnum` = 1  [ RunTime:0.0003s ]
+
+[ 2017-06-01T22:55:03+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001580s ]
+NOTIC: [8] Undefined index: username D:\wamp5_4\www\examLibrary\Application\Home\Controller\LoginController.class.php 第 12 行.
+NOTIC: [8] Undefined index: usernumber D:\wamp5_4\www\examLibrary\Application\Home\Controller\LoginController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0127s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = null AND `usernumber` = null AND `loginnum` = 1  [ RunTime:0.0004s ]
+
+[ 2017-06-01T22:55:17+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000667s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001208s ]
+NOTIC: [8] Undefined index: username D:\wamp5_4\www\examLibrary\Application\Home\Controller\LoginController.class.php 第 12 行.
+NOTIC: [8] Undefined index: usernumber D:\wamp5_4\www\examLibrary\Application\Home\Controller\LoginController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0119s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = null AND `usernumber` = null AND `loginnum` = 1  [ RunTime:0.0005s ]
+
+[ 2017-06-01T22:55:18+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000667s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001087s ]
+NOTIC: [8] Undefined index: username D:\wamp5_4\www\examLibrary\Application\Home\Controller\LoginController.class.php 第 12 行.
+NOTIC: [8] Undefined index: usernumber D:\wamp5_4\www\examLibrary\Application\Home\Controller\LoginController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0105s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = null AND `usernumber` = null AND `loginnum` = 1  [ RunTime:0.0005s ]
+
+[ 2017-06-01T22:55:18+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000688s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001109s ]
+NOTIC: [8] Undefined index: username D:\wamp5_4\www\examLibrary\Application\Home\Controller\LoginController.class.php 第 12 行.
+NOTIC: [8] Undefined index: usernumber D:\wamp5_4\www\examLibrary\Application\Home\Controller\LoginController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0111s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = null AND `usernumber` = null AND `loginnum` = 1  [ RunTime:0.0004s ]
+
+[ 2017-06-01T22:55:18+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000642s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001033s ]
+NOTIC: [8] Undefined index: username D:\wamp5_4\www\examLibrary\Application\Home\Controller\LoginController.class.php 第 12 行.
+NOTIC: [8] Undefined index: usernumber D:\wamp5_4\www\examLibrary\Application\Home\Controller\LoginController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0084s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = null AND `usernumber` = null AND `loginnum` = 1  [ RunTime:0.0007s ]
+
+[ 2017-06-01T22:55:18+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000586s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000960s ]
+NOTIC: [8] Undefined index: username D:\wamp5_4\www\examLibrary\Application\Home\Controller\LoginController.class.php 第 12 行.
+NOTIC: [8] Undefined index: usernumber D:\wamp5_4\www\examLibrary\Application\Home\Controller\LoginController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0133s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = null AND `usernumber` = null AND `loginnum` = 1  [ RunTime:0.0005s ]
+
+[ 2017-06-01T22:55:18+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000605s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001087s ]
+NOTIC: [8] Undefined index: username D:\wamp5_4\www\examLibrary\Application\Home\Controller\LoginController.class.php 第 12 行.
+NOTIC: [8] Undefined index: usernumber D:\wamp5_4\www\examLibrary\Application\Home\Controller\LoginController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0134s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = null AND `usernumber` = null AND `loginnum` = 1  [ RunTime:0.0007s ]
+
+[ 2017-06-01T22:56:57+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000955s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001667s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0118s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '苏文星' AND `usernumber` = '1308020119' AND `loginnum` = 1  [ RunTime:0.0006s ]
+
+[ 2017-06-01T22:56:58+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000831s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001316s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '苏文星' AND `usernumber` = '1308020119' AND `loginnum` = 1  [ RunTime:0.0006s ]
+
+[ 2017-06-01T22:56:58+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001232s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001917s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0129s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '苏文星' AND `usernumber` = '1308020119' AND `loginnum` = 1  [ RunTime:0.0008s ]
+
+[ 2017-06-01T22:57:41+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000964s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003037s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0114s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '苏文星' AND `usernumber` = '1308020119' AND `loginnum` = 1  [ RunTime:0.0006s ]
+
+[ 2017-06-01T22:58:18+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000749s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001167s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0106s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '' AND `usernumber` = '' AND `loginnum` = 1  [ RunTime:0.0005s ]
+
+[ 2017-06-01T22:58:18+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000776s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001385s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0097s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '' AND `usernumber` = '' AND `loginnum` = 1  [ RunTime:0.0004s ]
+
+[ 2017-06-01T22:58:18+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000596s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000960s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '' AND `usernumber` = '' AND `loginnum` = 1  [ RunTime:0.0005s ]
+
+[ 2017-06-01T22:58:18+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000763s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001205s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0113s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '' AND `usernumber` = '' AND `loginnum` = 1  [ RunTime:0.0006s ]
+
+[ 2017-06-01T22:58:22+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000788s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001329s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0108s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '' AND `usernumber` = '131' AND `loginnum` = 1  [ RunTime:0.0005s ]
+
+[ 2017-06-01T23:00:01+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000663s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001134s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0103s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '' AND `usernumber` = '' AND `loginnum` = 1  [ RunTime:0.0003s ]
+
+[ 2017-06-01T23:00:01+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000638s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001003s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0107s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '' AND `usernumber` = '' AND `loginnum` = 1  [ RunTime:0.0003s ]
+
+[ 2017-06-01T23:00:01+08:00 ] ::1 /examLibrary/index.php/Login/login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000627s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001014s ]
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `e_users` WHERE `username` = '' AND `usernumber` = '' AND `loginnum` = 1  [ RunTime:0.0003s ]
+

@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>青岛科技大学题目管理</title>
+<meta name="description" content="这是一个 index 页面">
+<meta name="keywords" content="index">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="renderer" content="webkit">
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+<link rel="icon" type="image/png" href="__PUBLIC__/assets/i/favicon.png">
+<link rel="apple-touch-icon-precomposed"
+	href="__PUBLIC__/assets/i/app-icon72x72@2x.png">
+<meta name="apple-mobile-web-app-title" content="Amaze UI" />
+<link rel="stylesheet" href="__PUBLIC__/assets/css/amazeui.min.css" />
+<link rel="stylesheet"
+	href="__PUBLIC__/assets/css/amazeui.datatables.min.css" />
+<link rel="stylesheet" href="__PUBLIC__/assets/css/app.css">
+<script src="__PUBLIC__/assets/js/jquery.min.js"></script>
+<script src="__PUBLIC__/assets/js/jquery-form.js"></script>
+</head>
+
+<body data-type="widgets">
+	<script src="__PUBLIC__/assets/js/theme.js"></script>
+	<div class="am-g tpl-g">
+		<!-- 头部 -->
+		<header>
+			<!-- logo -->
+			<div class="am-fl tpl-header-logo">
+				<a href="javascript:;"><img src="__PUBLIC__/assets/img/logo.png"
+					alt=""></a>
+			</div>
+			<!-- 右侧内容 -->
+			<div class="tpl-header-fluid">
+				<!-- 侧边切换 -->
+				<div class="am-fl tpl-header-switch-button am-icon-list">
+					<span> </span>
+				</div>
+				<!-- 搜索 -->
+				<div class="am-fl tpl-header-search">
+					<form class="tpl-header-search-form" action="javascript:;">
+						<button class="tpl-header-search-btn am-icon-search"></button>
+						<input class="tpl-header-search-box" type="text"
+							placeholder="搜索内容...">
+					</form>
+				</div>
+				<!-- 其它功能-->
+				<div class="am-fr tpl-header-navbar">
+					<ul>
+						<!-- 欢迎语 -->
+						<li class="am-text-sm tpl-header-navbar-welcome"><a
+							href="javascript:;">欢迎你, <span>管理员</span>
+						</a></li>
+
+						<!-- 退出 -->
+						<li class="am-text-sm"><a href="__MODULE__/Login/logout">
+								<span class="am-icon-sign-out"></span> 退出
+						</a></li>
+					</ul>
+				</div>
+			</div>
+
+		</header>
+		<include file="Public/nav" />
+
+
+		<!-- 内容区域 -->
+		<div class="tpl-content-wrapper">
+			<div class="row-content am-cf">
+				<div class="row">
+					<div class="am-u-sm-12 am-u-md-12 am-u-lg-12">
+						<div class="widget am-cf">
+							<div class="widget-head am-cf">
+								<div class="widget-title  am-cf">
+									题目列表 <span class="am-fr" style="color: red;">注意：请严格按照要求提交excel文件，暂不支持分页</span>
+								</div>
+							</div>
+							<div class="widget-body  am-fr">
+
+								<div class="am-u-sm-12 am-u-md-6 am-u-lg-6">
+									<div class="am-form-group">
+										<div class="am-btn-toolbar">
+											<form action="__CONTROLLER__/upload" method="post"
+												id="importfrom" enctype="multipart/form-data">
+												<div class="am-form-group am-form-file">
+													<button type="button"
+														class="am-btn am-btn-danger am-btn-sm">
+														<i class="am-icon-cloud-upload"></i> 选择要上传的文件
+													</button>
+													<input id="import" type="file" name="exl" multiple>
+												</div>
+											</form>
+										</div>
+									</div>
+								</div>
+								<div class="am-u-sm-12 am-u-md-6 am-u-lg-3">
+									<div class="am-form-group tpl-table-list-select">
+										<select data-am-selected="{btnSize: 'sm'}">
+											<option value="">所有类别</option>
+											<option value="1">单选题</option>
+											<option value="2">多选题</option>
+											<option value="3">必选题</option>
+											<option value="4">是非题</option>
+										</select>
+									</div>
+								</div>
+								<div class="am-u-sm-12 am-u-md-12 am-u-lg-3">
+									<div
+										class="am-input-group am-input-group-sm tpl-form-border-form cl-p">
+										<input type="text" class="am-form-field "> <span
+											class="am-input-group-btn">
+											<button
+												class="am-btn  am-btn-default am-btn-success tpl-table-list-field am-icon-search"
+												type="button"></button>
+										</span>
+									</div>
+								</div>
+								
+								<div class="am-u-sm-12">
+									<table width="100%"
+										class="am-table am-table-compact am-table-striped tpl-table-black "
+										id="example-r">
+										<thead>
+											<tr>
+												<th>题目</th>
+												<th>类型</th>
+												<th>A选项</th>
+												<th>B选项</th>
+												<th>C选项</th>
+												<th>D选项</th>
+												<th>答案</th>
+											</tr>
+										</thead>
+										<tbody>
+											<foreach name="list" item="vo">
+												<tr class="gradeX">
+													<td>{$vo.content|subtext=30}</td>
+													<td>{$vo.type|qtype}</td>
+													<td>{$vo.aa|subtext=5}</td>
+													<td>{$vo.ab|subtext=5}</td>
+													<td>{$vo.ac|subtext=5}</td>
+													<td>{$vo.ad|subtext=5}</td>
+													<td>{$vo.answer}</td>
+													<!--  <td>
+														<div class="tpl-table-black-operation">
+															<a href="javascript:;"> <i class="am-icon-pencil"></i>
+																编辑
+															</a> <a href="javascript:;"
+																class="tpl-table-black-operation-del"> <i
+																class="am-icon-trash"></i> 删除
+															</a>
+														</div>
+													</td>
+													-->
+												</tr>
+											</foreach>
+
+
+											<!-- more data -->
+										</tbody>
+									</table>
+								</div>
+								<div class="am-u-lg-12 am-cf">
+									<div class="am-fr">
+										<div class="am-pagination tpl-pagination">
+											{$page}
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	</div>
+	<script src="__PUBLIC__/assets/js/amazeui.min.js"></script>
+	<script src="__PUBLIC__/assets/js/amazeui.datatables.min.js"></script>
+	<script src="__PUBLIC__/assets/js/dataTables.responsive.min.js"></script>
+	<script src="__PUBLIC__/assets/js/app.js"></script>
+	<script type="text/javascript">
+		$(function() {
+			$('#import').on('change', function() {
+				$.AMUI.progress.start();
+				var options = {
+					url : '{:U("Question/upload")}',
+					type : 'post',
+					success : function(data) {
+						$.AMUI.progress.done();
+						alert(data);
+					},
+					error : function() {
+						$.AMUI.progress.done();
+						alert("添加失败，请勿重复添加");
+					}
+				};
+
+				$('#importfrom').ajaxSubmit(options);
+
+			});
+		});
+	</script>
+</body>
+
+</html>

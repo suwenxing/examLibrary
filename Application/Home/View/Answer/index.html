@@ -86,6 +86,8 @@
 						},
 						type : 'post',
 						success : function(data) {
+							$.session.set('sec',null);
+							$.session.set('min',null);
 							window.location.href = '{:U("Score/index")}';
 						},
 						error : function(data) {

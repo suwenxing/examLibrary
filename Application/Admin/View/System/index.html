@@ -1,0 +1,103 @@
+<include file="Public/head" />
+<include file="Public/nav" />
+	<script type="text/javascript">
+	window.UEDITOR_HOME_URL = '__PUBLIC__/Ueditor/';
+	window.onload = function() {
+		window.UEDITOR_CONFIG.initialFrameWidth = 1080;
+		window.UEDITOR_CONFIG.initialFrameHeight = 350;
+		UE.getEditor('attention');
+	}
+</script>
+<js file="__PUBLIC__/Ueditor/ueditor.config.js" />
+<js file="__PUBLIC__/Ueditor/ueditor.all.min.js" />
+<!-- 内容区域 -->
+<div class="tpl-content-wrapper">
+
+	<div class="container-fluid am-cf">
+		<div class="row">
+			<div class="am-u-sm-12 am-u-md-12 am-u-lg-9">
+				<div class="page-header-heading">
+					<span class="am-icon-home page-header-heading-icon"></span>系统信息管理
+				</div>
+				<p class="page-header-description"></p>
+			</div>
+		</div>
+
+	</div>
+	<div class="row-content am-cf">
+		<div class="row">
+
+			<div class="am-u-sm-12 am-u-md-12 am-u-lg-12">
+				<div class="widget am-cf">
+					<div class="widget-head am-cf">
+						<div class="widget-title am-fl">系统信息维护</div>
+						<div class="widget-function am-fr">
+							<a href="javascript:;" class="am-icon-cog"></a>
+						</div>
+					</div>
+					<div class="widget-body am-fr">
+
+						<form class="am-form tpl-form-border-form tpl-form-border-br"
+							method="post" action="__CONTROLLER__/edit">
+							<input type="hidden" name="id" value="1">
+							<div class="am-form-group">
+								<label for="user-name" class="am-u-sm-3 am-form-label">网站名称
+									<span class="tpl-form-line-small-title">webname</span>
+								</label>
+								<div class="am-u-sm-9">
+									<input type="text" class="tpl-form-input" id="webname"
+										name="webname" value="{$list['webname']}" placeholder="网站名称">
+								</div>
+							</div>
+							<div class="am-form-group">
+								<label for="user-name" class="am-u-sm-3 am-form-label">考试时长
+									<span class="tpl-form-line-small-title">time</span>
+								</label>
+								<div class="am-u-sm-9">
+									<input type="text" class="tpl-form-input" id="etime"
+										name="etime" value="{$list['etime']}" placeholder="请输入时常">
+								</div>
+							</div>
+							<div class="am-form-group">
+								<label for="user-name" class="am-u-sm-3 am-form-label">秘钥
+									<span class="tpl-form-line-small-title">salt</span>
+								</label>
+								<div class="am-u-sm-9">
+									<input type="text" class="tpl-form-input" id="salt"
+										name="md5salt" value="{$list['md5salt']}" placeholder="请输入秘钥">
+								</div>
+							</div>
+							<div class="am-form-group">
+								<label for="user-name" class="am-u-sm-3 am-form-label">注意事项
+									<span class="tpl-form-line-small-title">attention</span>
+								</label>
+								<div class="am-u-sm-9">
+									<textarea name="attention" id="attention">{$list['attention']}</textarea>
+								</div>
+							</div>
+							 
+							<div class="am-form-group">
+								<div class="am-u-sm-9 am-u-sm-push-3">
+									<button type="submit"
+										class="am-btn am-btn-primary tpl-btn-bg-color-success ">提交</button>
+								</div>
+							</div>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+
+
+	</div>
+</div>
+</div>
+</div>
+<script src="__PUBLIC__/assets/js/amazeui.min.js"></script>
+<script src="__PUBLIC__/assets/js/amazeui.datatables.min.js"></script>
+<script src="__PUBLIC__/assets/js/dataTables.responsive.min.js"></script>
+<script src="__PUBLIC__/assets/js/app.js"></script>
+
+</body>
+
+</html>

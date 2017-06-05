@@ -1,0 +1,109 @@
+<include file="Public/head" />
+<include file="Public/nav" />
+
+
+<!-- 内容区域 -->
+<div class="tpl-content-wrapper">
+	<div class="row-content am-cf">
+		<div class="row">
+			<div class="am-u-sm-12 am-u-md-12 am-u-lg-12">
+				<div class="widget am-cf">
+					<div class="widget-head am-cf">
+						<div class="widget-title  am-cf">题目类型定义</div>
+					</div>
+					<div class="widget-body  am-fr">
+
+						<div class="am-u-sm-12 am-u-md-6 am-u-lg-6">
+							<div class="am-form-group">
+								<div class="am-btn-toolbar">
+
+									<div class="am-form-group am-form-file">
+										<a href="{:U("Question/addtype")}">
+											<button type="button" class="am-btn am-btn-danger am-btn-sm">
+												<i class="am-icon-cloud-upload"></i> 添加试题类型
+											</button>
+										</a>
+									</div>
+
+								</div>
+							</div>
+						</div>
+						<!-- 
+						<div class="am-u-sm-12 am-u-md-6 am-u-lg-3">
+							<div class="am-form-group tpl-table-list-select">
+								<select data-am-selected="{btnSize: 'sm'}">
+									<option value="">所有类别</option>
+									<option value="1">单选题</option>
+									<option value="2">多选题</option>
+									<option value="3">必选题</option>
+									<option value="4">是非题</option>
+								</select>
+							</div>
+						</div>
+						<div class="am-u-sm-12 am-u-md-12 am-u-lg-3">
+							<div
+								class="am-input-group am-input-group-sm tpl-form-border-form cl-p">
+								<input type="text" class="am-form-field "> <span
+									class="am-input-group-btn">
+									<button
+										class="am-btn  am-btn-default am-btn-success tpl-table-list-field am-icon-search"
+										type="button"></button>
+								</span>
+							</div>
+						</div>
+ 						-->
+						<div class="am-u-sm-12">
+							<table width="100%"
+								class="am-table am-table-compact am-table-striped tpl-table-black "
+								id="example-r">
+								<thead>
+									<tr>
+										<th>题目名称</th>
+										<th>操作类型</th>
+									</tr>
+								</thead>
+								<tbody>
+									<foreach name="list" item="vo">
+									<tr class="gradeX">
+										<td>{$vo.title|subtext=30}</td>
+										<td>
+											<div class="tpl-table-black-operation">
+												<a href="{:U('Question/addqueslist',array('id' => $vo['id']))}"> <i class="am-icon-plus"></i>
+													添加题目</a>
+												<a href="{:U('Question/edittype',array('id' => $vo['id']))}"> <i class="am-icon-pencil"></i>
+													编辑
+												</a> <a href="{:U('Question/deltype',array('id' => $vo['id']))}"  onclick="return confirm('确定删除')" 
+													class="tpl-table-black-operation-del"> <i
+													class="am-icon-trash"></i> 删除
+												</a>
+											</div>
+										</td>
+									</tr>
+									</foreach>
+
+
+									<!-- more data -->
+								</tbody>
+							</table>
+						</div>
+						<div class="am-u-lg-12 am-cf">
+							<div class="am-fr">
+								<div class="am-pagination tpl-pagination">{$page}</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+</div>
+<script src="__PUBLIC__/assets/js/amazeui.min.js"></script>
+<script src="__PUBLIC__/assets/js/amazeui.datatables.min.js"></script>
+<script src="__PUBLIC__/assets/js/dataTables.responsive.min.js"></script>
+<script src="__PUBLIC__/assets/js/app.js"></script>
+
+</body>
+
+</html>

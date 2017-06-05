@@ -1,0 +1,602 @@
+[ 2017-06-01T09:43:30+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000915s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001469s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `e_test` [ RunTime:0.0112s ]
+SQL: INSERT INTO `e_test` () VALUES () [ RunTime:0.0010s ]
+SQL: INSERT INTO `e_test` () VALUES () [ RunTime:0.0003s ]
+SQL: INSERT INTO `e_test` () VALUES () [ RunTime:0.0003s ]
+SQL: INSERT INTO `e_test` () VALUES () [ RunTime:0.0002s ]
+SQL: INSERT INTO `e_test` () VALUES () [ RunTime:0.0002s ]
+SQL: INSERT INTO `e_test` () VALUES () [ RunTime:0.0002s ]
+SQL: INSERT INTO `e_test` () VALUES () [ RunTime:0.0002s ]
+SQL: INSERT INTO `e_test` () VALUES () [ RunTime:0.0002s ]
+SQL: INSERT INTO `e_test` () VALUES () [ RunTime:0.0003s ]
+SQL: INSERT INTO `e_test` () VALUES () [ RunTime:0.0002s ]
+SQL: INSERT INTO `e_test` () VALUES () [ RunTime:0.0002s ]
+SQL: INSERT INTO `e_test` () VALUES () [ RunTime:0.0002s ]
+SQL: INSERT INTO `e_test` () VALUES () [ RunTime:0.0002s ]
+SQL: INSERT INTO `e_test` () VALUES () [ RunTime:0.0003s ]
+SQL: INSERT INTO `e_test` () VALUES () [ RunTime:0.0003s ]
+SQL: INSERT INTO `e_test` () VALUES () [ RunTime:0.0003s ]
+SQL: INSERT INTO `e_test` () VALUES () [ RunTime:0.0003s ]
+SQL: INSERT INTO `e_test` () VALUES () [ RunTime:0.0003s ]
+SQL: INSERT INTO `e_test` () VALUES () [ RunTime:0.0003s ]
+SQL: INSERT INTO `e_test` () VALUES () [ RunTime:0.0003s ]
+SQL: INSERT INTO `e_test` () VALUES () [ RunTime:0.0003s ]
+SQL: INSERT INTO `e_test` () VALUES () [ RunTime:0.0003s ]
+SQL: INSERT INTO `e_test` () VALUES () [ RunTime:0.0003s ]
+SQL: INSERT INTO `e_test` () VALUES () [ RunTime:0.0003s ]
+SQL: INSERT INTO `e_test` () VALUES () [ RunTime:0.0003s ]
+SQL: INSERT INTO `e_test` () VALUES () [ RunTime:0.0003s ]
+SQL: INSERT INTO `e_test` () VALUES () [ RunTime:0.0006s ]
+
+[ 2017-06-01T09:46:28+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000746s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001149s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0115s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020119','苏文星','1','信息科学与技术学院','信息工程131') [ RunTime:0.0007s ]
+ERR: 1062:Duplicate entry '苏文星' for key 'UNIQUE'
+ [ SQL语句 ] : INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020120','苏文星','1','信息科学与技术学院','信息工程132')
+ERR: 1062:Duplicate entry '苏文星' for key 'UNIQUE'
+ [ SQL语句 ] : INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020120','苏文星','1','信息科学与技术学院','信息工程132')
+
+[ 2017-06-01T09:48:00+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000621s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000990s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0129s ]
+ERR: 1062:Duplicate entry '苏文星' for key 'UNIQUE'
+ [ SQL语句 ] : INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020119','苏文星','1','信息科学与技术学院','信息工程131')
+ERR: 1062:Duplicate entry '苏文星' for key 'UNIQUE'
+ [ SQL语句 ] : INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020119','苏文星','1','信息科学与技术学院','信息工程131')
+
+[ 2017-06-01T09:49:18+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001006s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0125s ]
+ERR: 1062:Duplicate entry '苏文星' for key 'UNIQUE'
+ [ SQL语句 ] : INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020119','苏文星','1','信息科学与技术学院','信息工程131')
+ERR: 1062:Duplicate entry '苏文星' for key 'UNIQUE'
+ [ SQL语句 ] : INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020119','苏文星','1','信息科学与技术学院','信息工程131')
+
+[ 2017-06-01T09:50:01+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001667s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0126s ]
+ERR: 1062:Duplicate entry '苏文星' for key 'UNIQUE'
+ [ SQL语句 ] : INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020119','苏文星','1','信息科学与技术学院','信息工程131')
+ERR: 1062:Duplicate entry '苏文星' for key 'UNIQUE'
+ [ SQL语句 ] : INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020119','苏文星','1','信息科学与技术学院','信息工程131')
+
+[ 2017-06-01T09:52:04+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003603s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0115s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020119','苏文星','1','信息科学与技术学院','信息工程131') [ RunTime:0.0004s ]
+ERR: 1062:Duplicate entry '苏文星' for key 'UNIQUE'
+ [ SQL语句 ] : INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020120','苏文星','1','信息科学与技术学院','信息工程132')
+ERR: 1062:Duplicate entry '苏文星' for key 'UNIQUE'
+ [ SQL语句 ] : INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020120','苏文星','1','信息科学与技术学院','信息工程132')
+
+[ 2017-06-01T09:53:12+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000865s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001464s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0098s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020119','苏文星','1','信息科学与技术学院','信息工程131') [ RunTime:0.0003s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020120','苏文星','1','信息科学与技术学院','信息工程132') [ RunTime:0.0003s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020121','苏文星','1','信息科学与技术学院','信息工程133') [ RunTime:0.0003s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020122','苏文星','1','信息科学与技术学院','信息工程134') [ RunTime:0.0004s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020123','苏文星','1','信息科学与技术学院','信息工程135') [ RunTime:0.0002s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020124','苏文星','1','信息科学与技术学院','信息工程136') [ RunTime:0.0003s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020125','苏文星','1','信息科学与技术学院','信息工程137') [ RunTime:0.0003s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020126','苏文星','1','信息科学与技术学院','信息工程138') [ RunTime:0.0002s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020127','苏文星','1','信息科学与技术学院','信息工程139') [ RunTime:0.0009s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020128','苏文星','1','信息科学与技术学院','信息工程140') [ RunTime:0.0001s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020129','苏文星','1','信息科学与技术学院','信息工程141') [ RunTime:0.0001s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020130','苏文星','1','信息科学与技术学院','信息工程142') [ RunTime:0.0001s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020131','苏文星','1','信息科学与技术学院','信息工程143') [ RunTime:0.0001s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020132','苏文星','1','信息科学与技术学院','信息工程144') [ RunTime:0.0001s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020133','苏文星','1','信息科学与技术学院','信息工程145') [ RunTime:0.0001s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020134','苏文星','1','信息科学与技术学院','信息工程146') [ RunTime:0.0001s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020135','苏文星','1','信息科学与技术学院','信息工程147') [ RunTime:0.0002s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020136','苏文星','0','信息科学与技术学院','信息工程148') [ RunTime:0.0002s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020137','苏文星','0','信息科学与技术学院','信息工程149') [ RunTime:0.0003s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020138','苏文星','0','信息科学与技术学院','信息工程150') [ RunTime:0.0003s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020139','苏文星','0','信息科学与技术学院','信息工程151') [ RunTime:0.0004s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020140','苏文星','0','信息科学与技术学院','信息工程152') [ RunTime:0.0003s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020141','苏文星','0','信息科学与技术学院','信息工程153') [ RunTime:0.0002s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020142','苏文星','0','信息科学与技术学院','信息工程154') [ RunTime:0.0002s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020143','苏文星','0','信息科学与技术学院','信息工程155') [ RunTime:0.0002s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020144','苏文星','0','信息科学与技术学院','信息工程156') [ RunTime:0.0002s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020145','苏文星','0','信息科学与技术学院','信息工程157') [ RunTime:0.0001s ]
+
+[ 2017-06-01T09:53:50+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000570s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000913s ]
+NOTIC: [8] Undefined index: exl D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 10 行.
+
+[ 2017-06-01T09:57:46+08:00 ] ::1 /examLibrary/admin.php/Student/stulist.html
+ERR: 1146:Table 'exam.e_user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `e_user`
+
+[ 2017-06-01T11:07:19+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002124s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002903s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0122s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020119','苏文星','1','信息科学与技术学院','信息工程131') [ RunTime:0.0004s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020120','苏文星','1','信息科学与技术学院','信息工程132') [ RunTime:0.0003s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020121','苏文星','1','信息科学与技术学院','信息工程133') [ RunTime:0.0002s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020122','苏文星','1','信息科学与技术学院','信息工程134') [ RunTime:0.0002s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020123','苏文星','1','信息科学与技术学院','信息工程135') [ RunTime:0.0001s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020124','苏文星','1','信息科学与技术学院','信息工程136') [ RunTime:0.0001s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020125','苏文星','1','信息科学与技术学院','信息工程137') [ RunTime:0.0001s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020126','苏文星','1','信息科学与技术学院','信息工程138') [ RunTime:0.0001s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020127','苏文星','1','信息科学与技术学院','信息工程139') [ RunTime:0.0001s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020128','苏文星','1','信息科学与技术学院','信息工程140') [ RunTime:0.0001s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020129','苏文星','1','信息科学与技术学院','信息工程141') [ RunTime:0.0002s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020130','苏文星','1','信息科学与技术学院','信息工程142') [ RunTime:0.0002s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020131','苏文星','1','信息科学与技术学院','信息工程143') [ RunTime:0.0002s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020132','苏文星','1','信息科学与技术学院','信息工程144') [ RunTime:0.0002s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020133','苏文星','1','信息科学与技术学院','信息工程145') [ RunTime:0.0001s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020134','苏文星','1','信息科学与技术学院','信息工程146') [ RunTime:0.0001s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020135','苏文星','1','信息科学与技术学院','信息工程147') [ RunTime:0.0001s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020136','苏文星','0','信息科学与技术学院','信息工程148') [ RunTime:0.0001s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020137','苏文星','0','信息科学与技术学院','信息工程149') [ RunTime:0.0001s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020138','苏文星','0','信息科学与技术学院','信息工程150') [ RunTime:0.0001s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020139','苏文星','0','信息科学与技术学院','信息工程151') [ RunTime:0.0002s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020140','苏文星','0','信息科学与技术学院','信息工程152') [ RunTime:0.0001s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020141','苏文星','0','信息科学与技术学院','信息工程153') [ RunTime:0.0002s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020142','苏文星','0','信息科学与技术学院','信息工程154') [ RunTime:0.0002s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020143','苏文星','0','信息科学与技术学院','信息工程155') [ RunTime:0.0001s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020144','苏文星','0','信息科学与技术学院','信息工程156') [ RunTime:0.0001s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020145','苏文星','0','信息科学与技术学院','信息工程157') [ RunTime:0.0002s ]
+
+[ 2017-06-01T11:09:54+08:00 ] ::1 /examLibrary/admin.php/Student/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003258s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005038s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `e_users` [ RunTime:0.0093s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020119','苏文星','1','信息科学与技术学院','信息工程131') [ RunTime:0.0008s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020120','苏文星','1','信息科学与技术学院','信息工程132') [ RunTime:0.0002s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020121','苏文星','1','信息科学与技术学院','信息工程133') [ RunTime:0.0002s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020122','苏文星','1','信息科学与技术学院','信息工程134') [ RunTime:0.0002s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020123','苏文星','1','信息科学与技术学院','信息工程135') [ RunTime:0.0002s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020124','苏文星','1','信息科学与技术学院','信息工程136') [ RunTime:0.0002s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020125','苏文星','1','信息科学与技术学院','信息工程137') [ RunTime:0.0001s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020126','苏文星','1','信息科学与技术学院','信息工程138') [ RunTime:0.0002s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020127','苏文星','1','信息科学与技术学院','信息工程139') [ RunTime:0.0001s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020128','苏文星','1','信息科学与技术学院','信息工程140') [ RunTime:0.0001s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020129','苏文星','1','信息科学与技术学院','信息工程141') [ RunTime:0.0002s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020130','苏文星','1','信息科学与技术学院','信息工程142') [ RunTime:0.0001s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020131','苏文星','1','信息科学与技术学院','信息工程143') [ RunTime:0.0002s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020132','苏文星','1','信息科学与技术学院','信息工程144') [ RunTime:0.0003s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020133','苏文星','1','信息科学与技术学院','信息工程145') [ RunTime:0.0003s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020134','苏文星','1','信息科学与技术学院','信息工程146') [ RunTime:0.0002s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020135','苏文星','1','信息科学与技术学院','信息工程147') [ RunTime:0.0002s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020136','苏文星','0','信息科学与技术学院','信息工程148') [ RunTime:0.0002s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020137','苏文星','0','信息科学与技术学院','信息工程149') [ RunTime:0.0002s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020138','苏文星','0','信息科学与技术学院','信息工程150') [ RunTime:0.0002s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020139','苏文星','0','信息科学与技术学院','信息工程151') [ RunTime:0.0002s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020140','苏文星','0','信息科学与技术学院','信息工程152') [ RunTime:0.0002s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020141','苏文星','0','信息科学与技术学院','信息工程153') [ RunTime:0.0003s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020142','苏文星','0','信息科学与技术学院','信息工程154') [ RunTime:0.0003s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020143','苏文星','0','信息科学与技术学院','信息工程155') [ RunTime:0.0004s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020144','苏文星','0','信息科学与技术学院','信息工程156') [ RunTime:0.0004s ]
+SQL: INSERT INTO `e_users` (`usernumber`,`username`,`sex`,`college`,`class`) VALUES ('1308020145','苏文星','0','信息科学与技术学院','信息工程157') [ RunTime:0.0004s ]
+
+[ 2017-06-01T11:17:33+08:00 ] ::1 /examLibrary/admin.php/Student/showstu/id/1.html
+ERR: 模板不存在:./Application/Admin/View/Student/showstu.html
+
+[ 2017-06-01T15:30:06+08:00 ] ::1 /examLibrary/admin.php/College/upload.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001176s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002093s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp5_4\www\examLibrary\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0132s ]
+SQL: INSERT INTO `e_college` (`cname`,`clname`) VALUES ('信息科学与技术学院','信息131') [ RunTime:0.0009s ]
+SQL: INSERT INTO `e_college` (`cname`,`clname`) VALUES ('信息科学与技术学院','信息132') [ RunTime:0.0009s ]
+SQL: INSERT INTO `e_college` (`cname`,`clname`) VALUES ('信息科学与技术学院','信息133') [ RunTime:0.0003s ]
+SQL: INSERT INTO `e_college` (`cname`,`clname`) VALUES ('信息科学与技术学院','信息134') [ RunTime:0.0002s ]
+SQL: INSERT INTO `e_college` (`cname`,`clname`) VALUES ('信息科学与技术学院','信息135') [ RunTime:0.0002s ]
+SQL: INSERT INTO `e_college` (`cname`,`clname`) VALUES ('信息科学与技术学院','信息136') [ RunTime:0.0003s ]
+SQL: INSERT INTO `e_college` (`cname`,`clname`) VALUES ('信息科学与技术学院','信息137') [ RunTime:0.0002s ]
+SQL: INSERT INTO `e_college` (`cname`,`clname`) VALUES ('外国语学院','日语131') [ RunTime:0.0002s ]
+SQL: INSERT INTO `e_college` (`cname`,`clname`) VALUES ('外国语学院','日语132') [ RunTime:0.0003s ]
+SQL: INSERT INTO `e_college` (`cname`,`clname`) VALUES ('外国语学院','日语133') [ RunTime:0.0003s ]
+SQL: INSERT INTO `e_college` (`cname`,`clname`) VALUES ('外国语学院','日语134') [ RunTime:0.0003s ]
+SQL: INSERT INTO `e_college` (`cname`,`clname`) VALUES ('外国语学院','日语135') [ RunTime:0.0001s ]
+SQL: INSERT INTO `e_college` (`cname`,`clname`) VALUES ('外国语学院','日语136') [ RunTime:0.0002s ]
+
+[ 2017-06-01T16:28:50+08:00 ] ::1 /examLibrary/admin.php/examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000628s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000973s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000110s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000215s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013223s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013329s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000514s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000568s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000803s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000862s ]
+
+[ 2017-06-01T16:31:23+08:00 ] ::1 /examLibrary/admin.php/examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001975s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002507s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000131s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000208s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010154s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010249s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000564s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000616s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000743s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000797s ]
+
+[ 2017-06-01T16:32:25+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000728s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001139s ]
+
+[ 2017-06-01T16:36:22+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000674s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001155s ]
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0134s ]
+SQL: SELECT * FROM `e_college` WHERE `cname` = '信息科学与技术学院'  [ RunTime:0.0008s ]
+
+[ 2017-06-01T16:37:26+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000761s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001293s ]
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0089s ]
+SQL: SELECT * FROM `e_college` WHERE `cname` = '外国语学院'  [ RunTime:0.0008s ]
+
+[ 2017-06-01T16:39:13+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000978s ]
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0122s ]
+SQL: SELECT * FROM `e_college` WHERE `cname` = '请点击选择'  [ RunTime:0.0002s ]
+
+[ 2017-06-01T16:43:36+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000846s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001406s ]
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0123s ]
+SQL: SELECT * FROM `e_college` WHERE `cname` = '信息科学与技术学院'  [ RunTime:0.0011s ]
+
+[ 2017-06-01T16:43:58+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000611s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001023s ]
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0107s ]
+SQL: SELECT * FROM `e_college` WHERE `id` = 0  [ RunTime:0.0004s ]
+
+[ 2017-06-01T16:44:18+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000572s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000924s ]
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0123s ]
+SQL: SELECT `cname` FROM `e_college` WHERE `cname` = '外国语学院'  [ RunTime:0.0004s ]
+
+[ 2017-06-01T16:44:33+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000627s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000993s ]
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0132s ]
+SQL: SELECT `cname` FROM `e_college` WHERE `cname` = '信息科学与技术学院'  [ RunTime:0.0003s ]
+
+[ 2017-06-01T16:44:50+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000577s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000936s ]
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0081s ]
+SQL: SELECT `cname` FROM `e_college` WHERE `cname` = '信息科学与技术学院'  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: cname D:\wamp5_4\www\examLibrary\Application\Admin\Controller\StudentController.class.php 第 161 行.
+
+[ 2017-06-01T16:45:01+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003937s ]
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0094s ]
+SQL: SELECT `cname` FROM `e_college` WHERE `cname` = '外国语学院'  [ RunTime:0.0003s ]
+
+[ 2017-06-01T16:45:22+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000608s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000953s ]
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0109s ]
+SQL: SELECT `cname` FROM `e_college` WHERE `cname` = '法学院'  [ RunTime:0.0006s ]
+
+[ 2017-06-01T16:46:04+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000764s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001286s ]
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0109s ]
+SQL: SELECT `cname` FROM `e_college` WHERE `cname` = '信息科学与技术学院'  [ RunTime:0.0003s ]
+
+[ 2017-06-01T16:46:29+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000654s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001607s ]
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0116s ]
+SQL: SELECT `cname` FROM `e_college` WHERE `cname` = '外国语学院'  [ RunTime:0.0005s ]
+
+[ 2017-06-01T16:46:32+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000797s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001464s ]
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0095s ]
+SQL: SELECT `cname` FROM `e_college` WHERE `cname` = '信息科学与技术学院'  [ RunTime:0.0006s ]
+
+[ 2017-06-01T16:46:41+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000951s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001587s ]
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0123s ]
+SQL: SELECT `cname` FROM `e_college` WHERE `cname` = '外国语学院'  [ RunTime:0.0004s ]
+
+[ 2017-06-01T16:46:43+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000578s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000920s ]
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0106s ]
+SQL: SELECT `cname` FROM `e_college` WHERE `cname` = '法学院'  [ RunTime:0.0002s ]
+
+[ 2017-06-01T16:46:54+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000640s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001081s ]
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0137s ]
+SQL: SELECT `cname` FROM `e_college` WHERE `cname` = '外国语学院'  [ RunTime:0.0007s ]
+
+[ 2017-06-01T16:47:15+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000744s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001379s ]
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0193s ]
+SQL: SELECT `clname` FROM `e_college` WHERE `cname` = '外国语学院'  [ RunTime:0.0003s ]
+
+[ 2017-06-01T16:47:38+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001568s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003102s ]
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0156s ]
+SQL: SELECT `clname` FROM `e_college` WHERE `cname` = '外国语学院'  [ RunTime:0.0005s ]
+
+[ 2017-06-01T16:52:01+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000456s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000829s ]
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0122s ]
+SQL: SELECT `clname` FROM `e_college` WHERE `cname` = '信息科学与技术学院'  [ RunTime:0.0005s ]
+
+[ 2017-06-01T16:52:04+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000604s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001149s ]
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0137s ]
+SQL: SELECT `clname` FROM `e_college` WHERE `cname` = '法学院'  [ RunTime:0.0005s ]
+
+[ 2017-06-01T16:53:44+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000704s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001221s ]
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0094s ]
+SQL: SELECT `clname` FROM `e_college` WHERE `cname` = '请选择'  [ RunTime:0.0003s ]
+
+[ 2017-06-01T17:00:42+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001083s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001676s ]
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0119s ]
+SQL: SELECT `clname` FROM `e_college` WHERE `cname` = '法学院'  [ RunTime:0.0002s ]
+
+[ 2017-06-01T17:00:45+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000797s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001251s ]
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0123s ]
+SQL: SELECT `clname` FROM `e_college` WHERE `cname` = '�'  [ RunTime:0.0004s ]
+
+[ 2017-06-01T17:05:34+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000727s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001197s ]
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0117s ]
+SQL: SELECT `clname` FROM `e_college` WHERE `cname` = '信息科学与技术学院'  [ RunTime:0.0006s ]
+
+[ 2017-06-01T17:05:40+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000719s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001339s ]
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0117s ]
+SQL: SELECT `clname` FROM `e_college` WHERE `cname` = '法学院'  [ RunTime:0.0004s ]
+
+[ 2017-06-01T17:06:02+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000766s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001239s ]
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0106s ]
+SQL: SELECT `clname` FROM `e_college` WHERE `cname` = '法学院'  [ RunTime:0.0003s ]
+
+[ 2017-06-01T17:06:05+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001948s ]
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0152s ]
+SQL: SELECT `clname` FROM `e_college` WHERE `cname` = '信息科学与技术学院'  [ RunTime:0.0009s ]
+
+[ 2017-06-01T17:11:31+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001786s ]
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0111s ]
+SQL: SELECT `clname` FROM `e_college` WHERE `cname` = '外国语学院'  [ RunTime:0.0002s ]
+
+[ 2017-06-01T17:11:35+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000829s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001341s ]
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0086s ]
+SQL: SELECT `clname` FROM `e_college` WHERE `cname` = '信息科学与技术学院'  [ RunTime:0.0007s ]
+
+[ 2017-06-01T17:11:38+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000744s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001241s ]
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0117s ]
+SQL: SELECT `clname` FROM `e_college` WHERE `cname` = '外国语学院'  [ RunTime:0.0004s ]
+
+[ 2017-06-01T17:11:40+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000776s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001287s ]
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0122s ]
+SQL: SELECT `clname` FROM `e_college` WHERE `cname` = '信息科学与技术学院'  [ RunTime:0.0005s ]
+
+[ 2017-06-01T17:12:25+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000695s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001289s ]
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0123s ]
+SQL: SELECT `clname` FROM `e_college` WHERE `cname` = '信息科学与技术学院'  [ RunTime:0.0006s ]
+
+[ 2017-06-01T17:12:28+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001082s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001612s ]
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0130s ]
+SQL: SELECT `clname` FROM `e_college` WHERE `cname` = '外国语学院'  [ RunTime:0.0004s ]
+
+[ 2017-06-01T17:19:11+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000870s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001340s ]
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0146s ]
+SQL: SELECT `clname` FROM `e_college` WHERE `cname` = '外国语学院'  [ RunTime:0.0004s ]
+
+[ 2017-06-01T17:25:41+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001198s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001813s ]
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0094s ]
+SQL: SELECT `clname` FROM `e_college` WHERE `cname` = '外国语学院'  [ RunTime:0.0004s ]
+
+[ 2017-06-01T17:32:20+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000803s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001623s ]
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0109s ]
+SQL: SELECT `clname` FROM `e_college` WHERE `cname` = '信息科学与技术学院'  [ RunTime:0.0004s ]
+
+[ 2017-06-01T17:35:40+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000724s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001299s ]
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0109s ]
+SQL: SELECT `clname` FROM `e_college` WHERE `cname` = '信息科学与技术学院'  [ RunTime:0.0003s ]
+
+[ 2017-06-01T17:42:55+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000831s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001199s ]
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0087s ]
+SQL: SELECT `clname` FROM `e_college` WHERE `cname` = ''  [ RunTime:0.0006s ]
+
+[ 2017-06-01T17:42:59+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000764s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001252s ]
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0129s ]
+SQL: SELECT `clname` FROM `e_college` WHERE `cname` = ''  [ RunTime:0.0005s ]
+
+[ 2017-06-01T18:16:31+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002143s ]
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0140s ]
+SQL: SELECT `clname` FROM `e_college` WHERE `cname` = ''  [ RunTime:0.0003s ]
+
+[ 2017-06-01T18:19:14+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000768s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001190s ]
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0110s ]
+SQL: SELECT `clname` FROM `e_college` WHERE `cname` = ''  [ RunTime:0.0003s ]
+
+[ 2017-06-01T18:20:46+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000844s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001405s ]
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0112s ]
+SQL: SELECT `clname` FROM `e_college` WHERE `cname` = ''  [ RunTime:0.0003s ]
+
+[ 2017-06-01T18:21:41+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001261s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001843s ]
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0100s ]
+SQL: SELECT `clname` FROM `e_college` WHERE `cname` = ''  [ RunTime:0.0004s ]
+
+[ 2017-06-01T18:21:59+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000747s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001154s ]
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0108s ]
+SQL: SELECT `clname` FROM `e_college` WHERE `cname` = ''  [ RunTime:0.0002s ]
+
+[ 2017-06-01T18:22:30+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000802s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001306s ]
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0103s ]
+SQL: SELECT `clname` FROM `e_college` WHERE `cname` = '信息科学与技术学院'  [ RunTime:0.0003s ]
+
+[ 2017-06-01T18:23:15+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000781s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001404s ]
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0075s ]
+SQL: SELECT `clname` FROM `e_college` WHERE `cname` = '信息科学与技术学院'  [ RunTime:0.0003s ]
+
+[ 2017-06-01T18:24:20+08:00 ] ::1 /examLibrary/admin.php/Student/getClass.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000965s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001532s ]
+SQL: SHOW COLUMNS FROM `e_college` [ RunTime:0.0078s ]
+SQL: SELECT `clname` FROM `e_college` WHERE `cname` = '外国语学院'  [ RunTime:0.0003s ]
+
+[ 2017-06-01T19:28:53+08:00 ] ::1 /examLibrary/admin.php/Student/seachstu
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') OR (  ) )' at line 1
+ [ SQL语句 ] : SELECT * FROM `e_users` WHERE ( (  ) OR (  ) ) 
+
+[ 2017-06-01T20:03:57+08:00 ] ::1 /examLibrary/admin.php/System/index.html
+ERR: Think\Controller:disply方法不存在！
+
